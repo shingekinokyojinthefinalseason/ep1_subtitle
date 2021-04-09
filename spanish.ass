@@ -1,0 +1,289 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (América Latina)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0021,0021,0020,1
+Style: Cart_TitleEp,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00313131,&H00313131,0,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_TitleSerie,Arial,18,&H00612CD4,&H000000FF,&H00FFFFFF,&H00753228,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0070,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.77,0:00:10.75,Gen_Main,,0000,0000,0000,,Oigan…
+Dialogue: 0,0:00:15.20,0:00:17.84,Gen_Main,,0000,0000,0000,,Es peligroso estar aquí.
+Dialogue: 0,0:00:21.13,0:00:22.82,Gen_Main,,0000,0000,0000,,Vuelen.
+Dialogue: 0,0:00:24.73,0:00:27.55,Gen_Main,,0000,0000,0000,,Váyanse lejos.
+Dialogue: 0,0:00:28.18,0:00:29.18,Gen_Main,,0000,0000,0000,,¡Falco!
+Dialogue: 0,0:00:29.48,0:00:31.77,Gen_Main,,0000,0000,0000,,¿Qué pasa, hermano?
+Dialogue: 0,0:00:31.93,0:00:33.89,Gen_Main,,0000,0000,0000,,Si puedes hablar, te pondrás bien.
+Dialogue: 0,0:00:34.06,0:00:35.06,Gen_Main,,0000,0000,0000,,¡Colt!
+Dialogue: 0,0:00:35.81,0:00:37.56,Gen_Main,,0000,0000,0000,,Correré. ¡Agárrate!
+Dialogue: 0,0:00:48.62,0:00:49.64,Gen_Main,,0000,0000,0000,,¡Falco!
+Dialogue: 0,0:00:56.29,0:00:58.08,Gen_Main,,0000,0000,0000,,¿Cuál es la situación, Colt?
+Dialogue: 0,0:01:00.88,0:01:02.75,Gen_Main,,0000,0000,0000,,Impactó un proyectil explosivo.
+Dialogue: 0,0:01:05.54,0:01:08.61,Gen_Main,,0000,0000,0000,,Los eldianos del frente\Nsalieron por los aires.
+Dialogue: 0,0:01:09.97,0:01:11.11,Gen_Main,,0000,0000,0000,,¿Y la trinchera?
+Dialogue: 0,0:01:11.48,0:01:14.28,Gen_Main,,0000,0000,0000,,Es imposible seguir excavando.
+Dialogue: 0,0:01:14.72,0:01:17.15,Gen_Main,,0000,0000,0000,,¿Imposible? ¿Acaso es una orden?
+Dialogue: 0,0:01:17.31,0:01:19.56,Gen_Main,,0000,0000,0000,,¿Vas a darme órdenes, eldiano?
+Dialogue: 0,0:01:19.73,0:01:22.48,Gen_Main,,0000,0000,0000,,¿Cómo osas hablarle así\Nal capitán Magath?
+Dialogue: 0,0:01:22.78,0:01:25.49,Gen_Main,,0000,0000,0000,,Pero si continuamos así…
+Dialogue: 0,0:01:25.97,0:01:28.42,Gen_Main,,0000,0000,0000,,¿Bebiste, Falco?
+Dialogue: 0,0:01:28.57,0:01:30.60,Gen_Main,,0000,0000,0000,,Se golpeó la cabeza.
+Dialogue: 0,0:01:30.83,0:01:34.50,Gen_Main,,0000,0000,0000,,¿Recuerdas que llevamos\Ncuatro años en guerra?
+Dialogue: 0,0:01:35.16,0:01:37.82,Gen_Main,,0000,0000,0000,,¿Quiénes son ustedes?
+Dialogue: 0,0:01:38.37,0:01:40.42,Gen_Main,,0000,0000,0000,,¿Eh? Un momento.
+Dialogue: 0,0:01:40.84,0:01:44.46,Gen_Main,,0000,0000,0000,,¿No llevaba una espada hasta hace poco?
+Dialogue: 0,0:01:44.78,0:01:47.82,Gen_Main,,0000,0000,0000,,Iba de lado a lado peleando contra tita…
+Dialogue: 0,0:01:49.68,0:01:53.24,Gen_Main,,0000,0000,0000,,Tendremos que volverte\Na explicar todo el plan.
+Dialogue: 0,0:01:53.93,0:01:56.14,Gen_Main,,0000,0000,0000,,Presta atención, Falco.
+Dialogue: 0,0:01:56.85,0:02:01.06,Gen_Main,,0000,0000,0000,,Esta guerra de cuatro años\Nestá a punto de terminar.
+Dialogue: 0,0:02:02.56,0:02:05.04,Gen_Main,,0000,0000,0000,,Solo hay que conquistar el Fuerte Slava.
+Dialogue: 0,0:02:05.79,0:02:06.96,Gen_Main,,0000,0000,0000,,Más concretamente
+Dialogue: 0,0:02:07.17,0:02:11.33,Gen_Main,,0000,0000,0000,,hay que hundir la flota\Nde la Alianza de Medio Oriente.
+Dialogue: 0,0:02:11.68,0:02:15.51,Gen_Main,,0000,0000,0000,,Y entonces, los de Marley\Nganaremos la guerra.
+Dialogue: 0,0:02:16.51,0:02:20.92,Gen_Main,,0000,0000,0000,,Pero para eso hay que hacerse\Ncon el fuerte que hay en lo alto
+Dialogue: 0,0:02:21.26,0:02:23.66,Gen_Main,,0000,0000,0000,,o no podremos atacar el puerto militar.
+Dialogue: 0,0:02:24.88,0:02:27.86,Gen_Main,,0000,0000,0000,,¿No atacará la Marina de Marley por mar?
+Dialogue: 0,0:02:28.08,0:02:31.57,Gen_Main,,0000,0000,0000,,¿Qué esperas que haga la Marina, Zofia?
+Dialogue: 0,0:02:31.72,0:02:35.43,Gen_Main,,0000,0000,0000,,Son unos inútiles que tardaron\Ncuatro años en controlar los mares.
+Dialogue: 0,0:02:35.81,0:02:40.13,Gen_Main,,0000,0000,0000,,Y dejaron que hundieran\Nla mitad de todos sus barcos.
+Dialogue: 0,0:02:40.31,0:02:45.93,Gen_Main,,0000,0000,0000,,Y además exigen que conquistemos\Nun fuerte como si nada.
+Dialogue: 0,0:02:46.11,0:02:48.29,Gen_Main,,0000,0000,0000,,¡Malditos sean!
+Dialogue: 0,0:02:48.57,0:02:49.57,Gen_Main,,0000,0000,0000,,Udo.
+Dialogue: 0,0:02:49.81,0:02:52.17,Gen_Main,,0000,0000,0000,,No le rompas la cabeza a Falco.
+Dialogue: 0,0:02:52.32,0:02:53.95,Gen_Main,,0000,0000,0000,,Oh, lo siento.
+Dialogue: 0,0:02:55.00,0:03:00.80,Gen_Main,,0000,0000,0000,,¿Por qué nos envían al frente\Nsi somos candidatos a guerrero?
+Dialogue: 0,0:03:01.07,0:03:04.96,Gen_Main,,0000,0000,0000,,Para elegir al próximo guerrero
+Dialogue: 0,0:03:05.73,0:03:07.40,Gen_Main,,0000,0000,0000,,entre nosotros.
+Dialogue: 0,0:03:09.96,0:03:11.62,Gen_Main,,0000,0000,0000,,Se acerca el momento.
+Dialogue: 0,0:03:11.93,0:03:15.93,Gen_Main,,0000,0000,0000,,El capitán Magath decidió\Nque nos examinará en el frente
+Dialogue: 0,0:03:16.19,0:03:18.53,Gen_Main,,0000,0000,0000,,antes de pasar a la siguiente jugada.
+Dialogue: 0,0:03:19.43,0:03:22.57,Gen_Main,,0000,0000,0000,,La que será clave\Npara conquistar la isla Paradis.
+Dialogue: 0,0:03:23.18,0:03:25.86,Gen_Main,,0000,0000,0000,,El heredero del titán acorazado.
+Dialogue: 0,0:04:58.02,0:05:03.04,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}Al otro lado del mar
+Dialogue: 0,0:05:07.92,0:05:09.42,Gen_Main,,0000,0000,0000,,El titán acorazado…
+Dialogue: 0,0:05:10.74,0:05:13.48,Gen_Main,,0000,0000,0000,,Me pregunto a quién elegirán.
+Dialogue: 0,0:05:16.06,0:05:21.71,Gen_Main,,0000,0000,0000,,Hablas como si fueras\Nla única opción, Gabi.
+Dialogue: 0,0:05:22.00,0:05:23.91,Gen_Main,,0000,0000,0000,,Es que lo soy.
+Dialogue: 0,0:05:24.61,0:05:27.35,Gen_Main,,0000,0000,0000,,No podemos compararnos con Gabi.
+Dialogue: 0,0:05:27.90,0:05:29.79,Gen_Main,,0000,0000,0000,,Tiene mejores calificaciones.
+Dialogue: 0,0:05:30.00,0:05:34.19,Gen_Main,,0000,0000,0000,,Como digo siempre, las calificaciones\Nno son lo que importa, Udo.
+Dialogue: 0,0:05:34.86,0:05:38.20,Gen_Main,,0000,0000,0000,,Lo que me diferencia de ustedes\Nes la determinación.
+Dialogue: 0,0:05:38.56,0:05:40.92,Gen_Main,,0000,0000,0000,,Para cargar\Ncon el destino de los eldianos
+Dialogue: 0,0:05:41.18,0:05:44.20,Gen_Main,,0000,0000,0000,,y exterminar a los demonios
+Dialogue: 0,0:05:44.52,0:05:46.58,Gen_Main,,0000,0000,0000,,que nos hacen sufrir.
+Dialogue: 0,0:05:47.16,0:05:51.40,Gen_Main,,0000,0000,0000,,Ganaré la batalla\Ny le demostraré al mundo
+Dialogue: 0,0:05:51.54,0:05:54.09,Gen_Main,,0000,0000,0000,,que solo quedamos eldianos buenos.
+Dialogue: 0,0:05:54.59,0:05:56.02,Gen_Main,,0000,0000,0000,,No perderé.
+Dialogue: 0,0:05:56.29,0:05:59.09,Gen_Main,,0000,0000,0000,,Salvaré a todos\Nde los campos de concentración.
+Dialogue: 0,0:06:02.10,0:06:05.60,Gen_Main,,0000,0000,0000,,¿Qué estás haciendo?
+Dialogue: 0,0:06:06.53,0:06:08.28,Gen_Main,,0000,0000,0000,,¿Esto? ¿A que es genial?
+Dialogue: 0,0:06:13.88,0:06:16.93,Gen_Main,,0000,0000,0000,,…no puede destruir\Nlas armas sobre la vía.
+Dialogue: 0,0:06:17.39,0:06:20.37,Gen_Main,,0000,0000,0000,,No hay huecos\Nen las trincheras del enemigo.
+Dialogue: 0,0:06:20.85,0:06:24.35,Gen_Main,,0000,0000,0000,,Además, puedes ofrecerles apoyo\Ndesde el fuerte.
+Dialogue: 0,0:06:24.83,0:06:28.88,Gen_Main,,0000,0000,0000,,Si nos quedamos aquí,\Nacabarán lanzando explosivos.
+Dialogue: 0,0:06:29.49,0:06:32.25,Gen_Main,,0000,0000,0000,,Pareces tener alguna idea, Colt.
+Dialogue: 0,0:06:33.41,0:06:36.26,Gen_Main,,0000,0000,0000,,Soltemos a la mandíbula y el carguero.
+Dialogue: 0,0:06:37.26,0:06:39.62,Gen_Main,,0000,0000,0000,,Galliard y Pieck pueden hacerlo.
+Dialogue: 0,0:06:39.88,0:06:43.17,Gen_Main,,0000,0000,0000,,Pueden aniquilar a los del fortín\Ny las trincheras.
+Dialogue: 0,0:06:43.35,0:06:44.64,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:06:45.23,0:06:47.89,Gen_Main,,0000,0000,0000,,Si usamos mal nuestro as, perderemos.
+Dialogue: 0,0:06:48.52,0:06:51.35,Gen_Main,,0000,0000,0000,,Capitán Magath, apareció.
+Dialogue: 0,0:06:52.03,0:06:53.40,Gen_Main,,0000,0000,0000,,¿Quién?
+Dialogue: 0,0:06:54.78,0:06:55.95,Gen_Main,,0000,0000,0000,,Eso.
+Dialogue: 0,0:06:56.40,0:06:58.02,Gen_Main,,0000,0000,0000,,Un tren blindado.
+Dialogue: 0,0:06:58.19,0:07:01.41,Gen_Main,,0000,0000,0000,,Tiene protección delante y atrás.\NCuatro.
+Dialogue: 0,0:07:01.85,0:07:03.80,Gen_Main,,0000,0000,0000,,Las nuevas armas de la Alianza.
+Dialogue: 0,0:07:03.95,0:07:05.66,Gen_Main,,0000,0000,0000,,Cañones antititanes.
+Dialogue: 0,0:07:06.08,0:07:09.51,Gen_Main,,0000,0000,0000,,Sus balas perforablindaje\Nde 150 milímetros
+Dialogue: 0,0:07:09.66,0:07:11.80,Gen_Main,,0000,0000,0000,,pueden matar a un titán de un golpe.
+Dialogue: 0,0:07:12.21,0:07:14.42,Gen_Main,,0000,0000,0000,,Incluso a uno de los nueve.
+Dialogue: 0,0:07:14.59,0:07:17.71,Gen_Main,,0000,0000,0000,,Pero los dos nuestros son ágiles.
+Dialogue: 0,0:07:18.17,0:07:19.84,Gen_Main,,0000,0000,0000,,Sería difícil acertar…
+Dialogue: 0,0:07:20.01,0:07:21.13,Gen_Main,,0000,0000,0000,,¿Y si lo hacen?
+Dialogue: 0,0:07:22.43,0:07:25.73,Gen_Main,,0000,0000,0000,,Perderíamos el poder de los titanes\Ny a los guerreros
+Dialogue: 0,0:07:25.97,0:07:29.31,Gen_Main,,0000,0000,0000,,sin nada que nos asegure\Nque podremos recuperarlo.
+Dialogue: 0,0:07:29.48,0:07:30.48,Gen_Main,,0000,0000,0000,,Así es.
+Dialogue: 0,0:07:30.81,0:07:35.37,Gen_Main,,0000,0000,0000,,La operación de recuperar al fundador\Nempezó hace nueve años.
+Dialogue: 0,0:07:35.63,0:07:39.08,Gen_Main,,0000,0000,0000,,Acabó mal y perdimos\Nal colosal y a la hembra.
+Dialogue: 0,0:07:39.86,0:07:42.55,Gen_Main,,0000,0000,0000,,Vieron que Marley perdía fuerzas
+Dialogue: 0,0:07:42.70,0:07:45.46,Gen_Main,,0000,0000,0000,,y por eso la guerra\Ncontinúa incluso hoy,
+Dialogue: 0,0:07:45.62,0:07:48.33,Gen_Main,,0000,0000,0000,,tras posponer la operación\Nde la isla Paradis.
+Dialogue: 0,0:07:49.12,0:07:52.75,Gen_Main,,0000,0000,0000,,¿Qué es lo que hace de Marley\Nuna gran patria?
+Dialogue: 0,0:07:53.37,0:07:56.10,Gen_Main,,0000,0000,0000,,-El poder de los titanes.\N-En efecto.
+Dialogue: 0,0:07:56.33,0:07:59.60,Gen_Main,,0000,0000,0000,,Si perdemos más,\Nno podremos mantener el país.
+Dialogue: 0,0:08:00.02,0:08:02.51,Gen_Main,,0000,0000,0000,,El poder de los titanes es absoluto.
+Dialogue: 0,0:08:02.82,0:08:04.84,Gen_Main,,0000,0000,0000,,Y así debe ser.
+Dialogue: 0,0:08:05.66,0:08:09.02,Gen_Main,,0000,0000,0000,,-Prepara al pelotón de eldianos.\N-¡Sí, señor!
+Dialogue: 0,0:08:09.29,0:08:10.97,Gen_Main,,0000,0000,0000,,Pero, capitán Magath…
+Dialogue: 0,0:08:11.14,0:08:13.13,Gen_Main,,0000,0000,0000,,¿Qué quieres, eldiano?
+Dialogue: 0,0:08:13.73,0:08:17.73,Gen_Main,,0000,0000,0000,,Son guerreros que juraron\Nlealtad a Marley, ¿no?
+Dialogue: 0,0:08:19.39,0:08:22.77,Gen_Main,,0000,0000,0000,,Nuestra generosa patria\Nles da una oportunidad
+Dialogue: 0,0:08:23.12,0:08:26.87,Gen_Main,,0000,0000,0000,,a los 800 eldianos que hay aquí.
+Dialogue: 0,0:08:32.29,0:08:34.87,Gen_Main,,0000,0000,0000,,Todo lo que existe es…
+Dialogue: 0,0:08:35.09,0:08:37.75,Gen_Main,,0000,0000,0000,,Todos en pie. Prepárense para pelear.
+Dialogue: 0,0:08:39.70,0:08:41.62,Gen_Main,,0000,0000,0000,,Vamos, levántate.
+Dialogue: 0,0:08:42.43,0:08:45.51,Gen_Main,,0000,0000,0000,,El pelotón de eldianos
+Dialogue: 0,0:08:45.77,0:08:49.26,Gen_Main,,0000,0000,0000,,se adentrará en las filas enemigas\Npara destruir las vías.
+Dialogue: 0,0:08:49.72,0:08:52.53,Gen_Main,,0000,0000,0000,,La unidad suicida se abalanzará\Nsobre su búnker
+Dialogue: 0,0:08:52.68,0:08:54.44,Gen_Main,,0000,0000,0000,,e inutilizará las ametralladoras.
+Dialogue: 0,0:08:54.77,0:08:55.80,Gen_Main,,0000,0000,0000,,¡Atención!
+Dialogue: 0,0:08:55.98,0:08:59.77,Gen_Main,,0000,0000,0000,,Hoy podrán limpiar su nombre,\Ndescendientes del demonio.
+Dialogue: 0,0:09:00.26,0:09:04.46,Gen_Main,,0000,0000,0000,,Es una oportunidad única\Npara brindarle gloria a Marley.
+Dialogue: 0,0:09:05.06,0:09:06.57,Gen_Main,,0000,0000,0000,,¡Denlo todo!
+Dialogue: 0,0:09:06.82,0:09:07.82,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:09:08.40,0:09:11.68,Gen_Main,,0000,0000,0000,,Ustedes, los candidatos a guerrero,\Nesperarán aquí.
+Dialogue: 0,0:09:11.93,0:09:17.80,Gen_Main,,0000,0000,0000,,Los 800 eldianos tendrán\Nque destruir las vías a toda costa.
+Dialogue: 0,0:09:18.58,0:09:22.11,Gen_Main,,0000,0000,0000,,Mientras el tren blindado\Nesté cerca del fuerte,
+Dialogue: 0,0:09:22.38,0:09:26.09,Gen_Main,,0000,0000,0000,,no podremos llamar\Nni a la mandíbula ni al carguero.
+Dialogue: 0,0:09:26.64,0:09:27.77,Gen_Main,,0000,0000,0000,,Pero, señor…
+Dialogue: 0,0:09:29.07,0:09:32.57,Gen_Main,,0000,0000,0000,,Colt, si quieres heredar a la bestia,
+Dialogue: 0,0:09:32.72,0:09:36.17,Gen_Main,,0000,0000,0000,,mentalízate de una vez para liderar.
+Dialogue: 0,0:09:44.24,0:09:45.42,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:09:45.57,0:09:47.80,Gen_Main,,0000,0000,0000,,Podemos destruir el tren entero.
+Dialogue: 0,0:09:47.95,0:09:50.33,Gen_Main,,0000,0000,0000,,Permítame hacerlo a mí.
+Dialogue: 0,0:09:51.08,0:09:52.26,Gen_Main,,0000,0000,0000,,¡Tarán!
+Dialogue: 0,0:09:52.84,0:09:56.75,Gen_Main,,0000,0000,0000,,Puedo inutilizar el tren yo sola.
+Dialogue: 0,0:09:58.62,0:10:00.02,Gen_Main,,0000,0000,0000,,Gabi…
+Dialogue: 0,0:10:00.71,0:10:04.57,Gen_Main,,0000,0000,0000,,¿Sabes cuánto dinero\Nse gastó el país en entrenarlos?
+Dialogue: 0,0:10:04.71,0:10:06.01,Gen_Main,,0000,0000,0000,,Ni hablar.
+Dialogue: 0,0:10:06.21,0:10:10.08,Gen_Main,,0000,0000,0000,,Es cierto que soy\Nmucho más hábil que los demás
+Dialogue: 0,0:10:10.51,0:10:14.80,Gen_Main,,0000,0000,0000,,y que probablemente no aparezca\Notra guerrera como yo.
+Dialogue: 0,0:10:15.47,0:10:18.02,Gen_Main,,0000,0000,0000,,Además soy superlinda.
+Dialogue: 0,0:10:18.53,0:10:21.08,Gen_Main,,0000,0000,0000,,Pero si lo consigo,
+Dialogue: 0,0:10:21.23,0:10:24.13,Gen_Main,,0000,0000,0000,,no perderemos a 800 soldados eldianos.
+Dialogue: 0,0:10:24.40,0:10:25.65,Gen_Main,,0000,0000,0000,,¿Y si fracasas?
+Dialogue: 0,0:10:26.12,0:10:28.71,Gen_Main,,0000,0000,0000,,Perderán a una candidata de primera
+Dialogue: 0,0:10:29.06,0:10:31.16,Gen_Main,,0000,0000,0000,,y siete granadas.
+Dialogue: 0,0:10:35.20,0:10:40.82,Gen_Main,,0000,0000,0000,,Supongo que si valgo tanto\Ncomo 800 eldianos es mejor que no vaya.
+Dialogue: 0,0:10:41.38,0:10:44.10,Gen_Main,,0000,0000,0000,,Si usted me aprecia tanto
+Dialogue: 0,0:10:44.35,0:10:46.68,Gen_Main,,0000,0000,0000,,como para sacrificar\Na 800 soldados por mí…
+Dialogue: 0,0:10:46.84,0:10:47.92,Gen_Main,,0000,0000,0000,,Está bien.
+Dialogue: 0,0:10:48.92,0:10:49.93,Gen_Main,,0000,0000,0000,,Ve.
+Dialogue: 0,0:10:50.86,0:10:52.93,Gen_Main,,0000,0000,0000,,-No, Gabi…\N-Lo lograré.
+Dialogue: 0,0:10:53.50,0:10:58.43,Gen_Main,,0000,0000,0000,,Demostraré que soy\Nuna guerrera digna del acorazado.
+Dialogue: 0,0:11:02.69,0:11:04.00,Gen_Main,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:11:04.72,0:11:06.57,Gen_Main,,0000,0000,0000,,Será solo durante la operación.
+Dialogue: 0,0:11:07.98,0:11:10.57,Gen_Main,,0000,0000,0000,,Permítame quitarme el brazalete.
+Dialogue: 0,0:11:11.06,0:11:12.07,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:11:19.44,0:11:22.20,Gen_Main,,0000,0000,0000,,Se acerca alguien. Va solo.
+Dialogue: 0,0:11:24.81,0:11:27.34,Gen_Main,,0000,0000,0000,,¿Una mujer? Solo es una niña.
+Dialogue: 0,0:11:27.72,0:11:29.35,Gen_Main,,0000,0000,0000,,Viene a entregarse.
+Dialogue: 0,0:11:29.51,0:11:32.24,Gen_Main,,0000,0000,0000,,Espera. Podría ser eldiana.
+Dialogue: 0,0:11:32.38,0:11:34.72,Gen_Main,,0000,0000,0000,,Le pasa algo raro.
+Dialogue: 0,0:11:35.26,0:11:37.11,Gen_Main,,0000,0000,0000,,Lleva el pie encadenado.
+Dialogue: 0,0:11:39.21,0:11:43.37,Gen_Main,,0000,0000,0000,,Está cerca. Tiene que ser eldiana.\NDispara antes de que se transforme.
+Dialogue: 0,0:11:43.52,0:11:46.61,Gen_Main,,0000,0000,0000,,No seas idiota. Dispara tú con el rifle.
+Dialogue: 0,0:11:48.48,0:11:49.57,Gen_Main,,0000,0000,0000,,Rayos…
+Dialogue: 0,0:11:54.99,0:11:56.00,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:12:07.63,0:12:08.63,Gen_Main,,0000,0000,0000,,Aún no.
+Dialogue: 0,0:12:11.84,0:12:12.84,Gen_Main,,0000,0000,0000,,Aún no.
+Dialogue: 0,0:12:16.64,0:12:17.64,Gen_Main,,0000,0000,0000,,Aún no.
+Dialogue: 0,0:12:18.18,0:12:20.52,Gen_Main,,0000,0000,0000,,-No se mueve.\N-¿Y qué? ¡Dispara!
+Dialogue: 0,0:12:25.27,0:12:28.93,Gen_Main,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:12:38.62,0:12:39.62,Gen_Main,,0000,0000,0000,,¡Lo consiguió!
+Dialogue: 0,0:12:40.70,0:12:42.00,Gen_Main,,0000,0000,0000,,¡Rápido! ¡Galliard!
+Dialogue: 0,0:12:46.32,0:12:49.88,Gen_Main,,0000,0000,0000,,Malditos cobardes de Marley…
+Dialogue: 0,0:12:50.33,0:12:53.26,Gen_Main,,0000,0000,0000,,Pero no crean…
+Dialogue: 0,0:12:54.26,0:12:56.76,Gen_Main,,0000,0000,0000,,que se saldrán con la suya.
+Dialogue: 0,0:12:59.51,0:13:00.62,Gen_Main,,0000,0000,0000,,¡Gabi!
+Dialogue: 0,0:13:00.85,0:13:01.85,Gen_Main,,0000,0000,0000,,¡No, Falco!
+Dialogue: 0,0:13:20.94,0:13:22.28,Gen_Main,,0000,0000,0000,,¡Galliard!
+Dialogue: 0,0:13:38.09,0:13:40.22,Gen_Main,,0000,0000,0000,,El tren blindado cayó.
+Dialogue: 0,0:13:40.69,0:13:42.97,Gen_Main,,0000,0000,0000,,Iniciando operación de descenso.
+Dialogue: 0,0:13:43.57,0:13:45.35,Gen_Main,,0000,0000,0000,,Sigan el plan.
+Dialogue: 0,0:13:45.94,0:13:47.28,Gen_Main,,0000,0000,0000,,Zeke será la lanza
+Dialogue: 0,0:13:48.06,0:13:50.06,Gen_Main,,0000,0000,0000,,y Reiner el escudo.
+Dialogue: 0,0:13:51.02,0:13:56.04,Cart_A_Tre,,0000,0000,0000,,{\blur4\pos(51,255)Información pública actualmente\N{\an4\fs18}País militar Marley\N{\fs12}País militar que resurgió gracias al héroe Helos\Nque puso fin a la Gran Guerra de los Titanes.\NCriaban a guerreros para siete de los nueve titanes\Ny conquistaban a otros país gracias a su poder.\NTambién tienen los ejércitos terrestre, marítimo y aéreo,\Nque ayudan a la hora de subyugar a otros países.
+Dialogue: 0,0:14:56.17,0:14:59.62,Gen_Main,,0000,0000,0000,,¡Duele! ¿Por qué han de disparar\Na los marleyenses?
+Dialogue: 0,0:14:59.80,0:15:01.44,Gen_Main,,0000,0000,0000,,¿Qué haces, Falco?
+Dialogue: 0,0:15:02.08,0:15:03.26,Gen_Main,,0000,0000,0000,,¿No lo ves?
+Dialogue: 0,0:15:03.89,0:15:06.39,Gen_Main,,0000,0000,0000,,Es un prisionero que ya no puede pelear.
+Dialogue: 0,0:15:06.86,0:15:08.86,Gen_Main,,0000,0000,0000,,Udo, dame un torniquete.
+Dialogue: 0,0:15:09.02,0:15:10.31,Gen_Main,,0000,0000,0000,,-Sí.\N-Mocoso…
+Dialogue: 0,0:15:10.48,0:15:11.91,Gen_Main,,0000,0000,0000,,Olvídate del enemigo.
+Dialogue: 0,0:15:13.13,0:15:15.84,Gen_Main,,0000,0000,0000,,¿Ese es tu punto fuerte?
+Dialogue: 0,0:15:16.36,0:15:19.51,Gen_Main,,0000,0000,0000,,¿Crees que cumpliendo\Nla ley internacional
+Dialogue: 0,0:15:19.73,0:15:21.88,Gen_Main,,0000,0000,0000,,heredarás al acorazado?
+Dialogue: 0,0:15:22.45,0:15:24.68,Gen_Main,,0000,0000,0000,,No sirve de nada.
+Dialogue: 0,0:15:24.91,0:15:25.91,Gen_Main,,0000,0000,0000,,¿Y qué?
+Dialogue: 0,0:15:27.76,0:15:28.91,Gen_Main,,0000,0000,0000,,Eres raro.
+Dialogue: 0,0:15:31.26,0:15:32.44,Gen_Main,,0000,0000,0000,,Está diciendo algo.
+Dialogue: 0,0:15:37.13,0:15:38.44,Gen_Main,,0000,0000,0000,,Interprétalo, Udo.
+Dialogue: 0,0:15:38.73,0:15:41.31,Gen_Main,,0000,0000,0000,,Dile que ya paró la hemorragia.
+Dialogue: 0,0:15:41.50,0:15:42.71,Gen_Main,,0000,0000,0000,,"No me toques".
+Dialogue: 0,0:15:43.37,0:15:44.64,Gen_Main,,0000,0000,0000,,"Me mancillarás".
+Dialogue: 0,0:15:45.57,0:15:46.88,Gen_Main,,0000,0000,0000,,"Demonio".
+Dialogue: 0,0:15:47.09,0:15:48.06,Gen_Main,,0000,0000,0000,,Eso dice.
+Dialogue: 0,0:15:58.91,0:16:00.07,Gen_Main,,0000,0000,0000,,¡Retirada!
+Dialogue: 0,0:16:00.37,0:16:01.64,Gen_Main,,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:16:02.07,0:16:04.57,Gen_Main,,0000,0000,0000,,¡Aléjense del fuerte!
+Dialogue: 0,0:16:09.95,0:16:11.45,Gen_Main,,0000,0000,0000,,Ya empezó.
+Dialogue: 0,0:17:35.33,0:17:37.48,Gen_Main,,0000,0000,0000,,¡No! No lo…
+Dialogue: 0,0:17:44.66,0:17:47.80,Gen_Main,,0000,0000,0000,,Sí que son demonios.
+Dialogue: 0,0:17:48.92,0:17:53.62,Gen_Main,,0000,0000,0000,,A nuestros antepasados marleyenses\Ntambién los devoraron.
+Dialogue: 0,0:17:54.64,0:17:56.64,Gen_Main,,0000,0000,0000,,Unos eldianos como ustedes.
+Dialogue: 0,0:17:56.81,0:17:57.88,Gen_Main,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:18:08.32,0:18:10.68,Gen_Main,,0000,0000,0000,,Sirven como bombas de masa.
+Dialogue: 0,0:18:10.82,0:18:12.93,Gen_Main,,0000,0000,0000,,Pero tal vez volábamos demasiado alto.
+Dialogue: 0,0:18:13.08,0:18:15.29,Gen_Main,,0000,0000,0000,,La mitad murieron por el impacto.
+Dialogue: 0,0:18:17.12,0:18:20.20,Gen_Main,,0000,0000,0000,,Aún hay bastantes cañones\Nde campaña antititanes activos.
+Dialogue: 0,0:18:21.25,0:18:23.48,Gen_Main,,0000,0000,0000,,Son 28, 29…
+Dialogue: 0,0:18:23.71,0:18:25.55,Gen_Main,,0000,0000,0000,,Los tengo localizados.
+Dialogue: 0,0:18:25.82,0:18:26.95,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:18:28.80,0:18:30.30,Gen_Main,,0000,0000,0000,,¿Otra muralla?
+Dialogue: 0,0:18:32.44,0:18:35.62,Gen_Main,,0000,0000,0000,,Ya estoy harto de murallas.
+Dialogue: 0,0:18:54.53,0:18:56.62,Gen_Main,,0000,0000,0000,,-¡El acorazado!\N-¡Mátenlo!
+Dialogue: 0,0:19:05.00,0:19:06.50,Gen_Main,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:19:09.72,0:19:11.91,Gen_Italics,,0000,0000,0000,,Balas perforantes antititanes.
+Dialogue: 0,0:19:12.05,0:19:13.64,Gen_Italics,,0000,0000,0000,,Atraviesan mi armadura.
+Dialogue: 0,0:19:17.05,0:19:19.28,Gen_Italics,,0000,0000,0000,,¿Qué fue eso? ¿Qué me golpeó?
+Dialogue: 0,0:19:21.02,0:19:23.73,Gen_Italics,,0000,0000,0000,,¿Un tren blindado? ¿Había más?
+Dialogue: 0,0:19:45.16,0:19:46.28,Gen_Main,,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:19:51.15,0:19:52.37,Gen_Italics,,0000,0000,0000,,Galliard…
+Dialogue: 0,0:19:52.88,0:19:54.73,Gen_Main,,0000,0000,0000,,¡Hijos de perra!
+Dialogue: 0,0:20:27.34,0:20:28.35,Gen_Italics,,0000,0000,0000,,Bien.
+Dialogue: 0,0:20:36.17,0:20:37.71,Gen_Main,,0000,0000,0000,,Lo tienen controlado.
+Dialogue: 0,0:20:39.07,0:20:42.84,Gen_Italics,,0000,0000,0000,,Esta guerra la provocó\Nnuestra derrota, Reiner.
+Dialogue: 0,0:20:54.05,0:20:56.97,Gen_Italics,,0000,0000,0000,,Las guerras no están bien.
+Dialogue: 0,0:21:13.38,0:21:16.22,Gen_Main,,0000,0000,0000,,La guerra por fin terminará.
+Dialogue: 0,0:22:01.30,0:22:03.77,Gen_Italics,,0000,0000,0000,,Con la flota destruida por completo,
+Dialogue: 0,0:22:04.03,0:22:07.75,Gen_Italics,,0000,0000,0000,,la Alianza de Medio Oriente\Nfirmó la paz con Marley.
+Dialogue: 0,0:22:08.27,0:22:12.57,Gen_Italics,,0000,0000,0000,,La guerra que duró cuatro años\Nacabó con la victoria de Marley.
+Dialogue: 0,0:22:13.33,0:22:15.04,Gen_Italics,,0000,0000,0000,,Pero el mundo descubrió
+Dialogue: 0,0:22:15.30,0:22:20.16,Gen_Italics,,0000,0000,0000,,que el poder de los titanes\Npronto dejaría de gobernar sobre todo,
+Dialogue: 0,0:22:20.70,0:22:26.66,Gen_Italics,,0000,0000,0000,,por lo que Marley debía apresurarse\Npara conseguir al titán fundador.
+Dialogue: 0,0:22:28.06,0:22:29.66,Gen_Main,,0000,0000,0000,,No…
+Dialogue: 0,0:22:34.13,0:22:36.91,Gen_Main,,0000,0000,0000,,El ataque valeroso,\Nosado y decidido de Marley
+Dialogue: 0,0:22:37.09,0:22:39.66,Gen_Main,,0000,0000,0000,,les permitió conquistar\Nel Fuerte Slava.
+Dialogue: 0,0:22:39.84,0:22:41.18,Gen_Main,,0000,0000,0000,,¡Fantástico!
+Dialogue: 0,0:22:41.34,0:22:43.68,Gen_Main,,0000,0000,0000,,¡Nuestro ejército es insuperable!
+Dialogue: 0,0:22:43.85,0:22:46.18,Gen_Main,,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:23:39.99,0:23:43.00,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}Avance
+Dialogue: 0,0:23:40.70,0:23:42.75,Gen_Italics,,0000,0000,0000,,Los titanes no son invencibles.
+Dialogue: 0,0:23:43.32,0:23:45.86,Gen_Italics,,0000,0000,0000,,El ejército de Marley vio la verdad.
+Dialogue: 0,0:23:46.09,0:23:48.61,Gen_Italics,,0000,0000,0000,,Los guerreros saborearon\Nla efímera victoria
+Dialogue: 0,0:23:48.94,0:23:52.24,Gen_Italics,,0000,0000,0000,,antes de regresar a su hogar, Liberio.
+Dialogue: 0,0:23:52.79,0:23:55.06,Gen_Main,,0000,0000,0000,,Próximo episodio:\N"Tren de medianoche".
+Dialogue: 0,0:23:52.99,0:23:54.99,Cart_TitleEp,,0000,0000,0000,,{\pos(320,135)}Tren de medianoche

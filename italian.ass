@@ -1,0 +1,262 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.67,0:00:10.65,Default,,0,0,0,,Ehi...
+Dialogue: 0,0:00:15.22,0:00:17.78,Default,,0,0,0,,Guarda che qui è pericoloso...
+Dialogue: 0,0:00:21.18,0:00:22.46,Default,,0,0,0,,Vola via...
+Dialogue: 0,0:00:24.73,0:00:27.59,Default,,0,0,0,,Lontano da qui...
+Dialogue: 0,0:00:28.17,0:00:29.17,Default,,0,0,0,,Falco!
+Dialogue: 0,0:00:29.46,0:00:33.84,Default,,0,0,0,,- Cosa...? Fratello? Che succede?\N- Bene, se puoi parlare non c'è problema.
+Dialogue: 0,0:00:34.01,0:00:35.05,Default,,0,0,0,,Colt!
+Dialogue: 0,0:00:35.61,0:00:37.55,Default,,0,0,0,,Corro, tieniti forte.
+Dialogue: 0,0:00:48.63,0:00:49.57,Default,,0,0,0,,Falco!
+Dialogue: 0,0:00:56.09,0:00:58.07,Default,,0,0,0,,Colt, com'è la situazione?
+Dialogue: 0,0:01:00.85,0:01:02.70,Default,,0,0,0,,Una granata li ha colpiti in pieno.
+Dialogue: 0,0:01:05.52,0:01:08.75,Default,,0,0,0,,I soldati eldiani più avanti\Nsono stati spazzati via.
+Dialogue: 0,0:01:09.94,0:01:11.09,Default,,0,0,0,,E la trincea?
+Dialogue: 0,0:01:11.44,0:01:14.47,Default,,0,0,0,,Non possiamo avanzare più di così!
+Dialogue: 0,0:01:14.62,0:01:19.18,Default,,0,0,0,,Non possiamo? È un ordine?\NUn eldiano che mi sta dando un ordine?
+Dialogue: 0,0:01:19.35,0:01:22.47,Default,,0,0,0,,Ehi tu! Come osi parlare così\Nal comandante Magath?
+Dialogue: 0,0:01:22.66,0:01:25.48,Default,,0,0,0,,Però... di questo passo...
+Dialogue: 0,0:01:26.12,0:01:28.23,Default,,0,0,0,,Falco, sei ubriaco?
+Dialogue: 0,0:01:28.42,0:01:30.61,Default,,0,0,0,,Ha colpito forte la testa.
+Dialogue: 0,0:01:30.76,0:01:34.49,Default,,0,0,0,,Ti ricordi che siamo in guerra\Nda ormai quattro anni?
+Dialogue: 0,0:01:34.96,0:01:37.82,Default,,0,0,0,,E voi chi siete?
+Dialogue: 0,0:01:38.22,0:01:40.41,Default,,0,0,0,,Anzi... mh?
+Dialogue: 0,0:01:40.57,0:01:44.45,Default,,0,0,0,,Fino a poco fa non stavo volando\Ncon spade in mano?
+Dialogue: 0,0:01:44.62,0:01:47.92,Default,,0,0,0,,Volavo... e i Giganti...
+Dialogue: 0,0:01:49.48,0:01:53.25,Default,,0,0,0,,Accidenti, mi sa che dobbiamo\Nrispiegargli l'operazione da capo.
+Dialogue: 0,0:01:53.82,0:01:56.13,Default,,0,0,0,,Ascoltami bene, Falco.
+Dialogue: 0,0:01:56.69,0:02:01.01,Default,,0,0,0,,Finalmente siamo nelle fasi finali\Ndi una guerra durata ben quattro anni.
+Dialogue: 0,0:02:02.57,0:02:05.14,Default,,0,0,0,,Dobbiamo solo far cadere Forte Slava.
+Dialogue: 0,0:02:05.87,0:02:07.94,Default,,0,0,0,,Più precisamente,\Nse riusciremo ad affondare
+Dialogue: 0,0:02:08.10,0:02:11.52,Default,,0,0,0,,la flotta degli Alleati Mediorientali\Nnel porto militare più sotto,
+Dialogue: 0,0:02:11.69,0:02:15.57,Default,,0,0,0,,allora noi di Marley\Nvinceremo finalmente la guerra.
+Dialogue: 0,0:02:16.46,0:02:20.91,Default,,0,0,0,,Ma per attaccare il porto\Ndobbiamo prima far cadere Forte Slava,
+Dialogue: 0,0:02:21.17,0:02:23.91,Default,,0,0,0,,che lo protegge da quell'altura.
+Dialogue: 0,0:02:24.93,0:02:27.75,Default,,0,0,0,,La Marina marleyana\Nnon può attaccare dal mare?
+Dialogue: 0,0:02:27.93,0:02:31.38,Default,,0,0,0,,Zofia?!\NChe ti aspetti dalla nostra Marina?!
+Dialogue: 0,0:02:31.56,0:02:35.25,Default,,0,0,0,,Quell'ammasso di incompetenti ci ha messo\N4 anni a prendere il controllo dei mari!
+Dialogue: 0,0:02:35.42,0:02:39.93,Default,,0,0,0,,E per raggiungere questo grande obiettivo\Nhanno perso metà della loro enorme flotta!
+Dialogue: 0,0:02:40.11,0:02:41.97,Default,,0,0,0,,E poi vengono a dire a noi dell'Esercito
+Dialogue: 0,0:02:42.16,0:02:45.77,Default,,0,0,0,,che far cadere una misera fortezza\Nè il minimo che possiamo fare per loro?!
+Dialogue: 0,0:02:45.95,0:02:48.43,Default,,0,0,0,,Pezzi di merda!
+Dialogue: 0,0:02:48.52,0:02:49.48,Default,,0,0,0,,Udo.
+Dialogue: 0,0:02:49.67,0:02:51.98,Default,,0,0,0,,Non schiacciare la testa a Falco.
+Dialogue: 0,0:02:52.17,0:02:53.94,Default,,0,0,0,,Ah, scusami...
+Dialogue: 0,0:02:55.00,0:03:00.78,Default,,0,0,0,,Ma allora perché hanno mandato\Nnoi Guerrieri cadetti al fronte?
+Dialogue: 0,0:03:00.96,0:03:04.95,Default,,0,0,0,,Per vedere e decidere\Nchi tra noi...
+Dialogue: 0,0:03:05.72,0:03:07.37,Default,,0,0,0,,...sarà il prossimo Guerriero.
+Dialogue: 0,0:03:09.85,0:03:11.71,Default,,0,0,0,,L'ora è quasi giunta.
+Dialogue: 0,0:03:11.86,0:03:15.88,Default,,0,0,0,,Il comandante Magath ha deciso di tenere\Nil nostro esame finale sulle prime linee.
+Dialogue: 0,0:03:16.05,0:03:18.38,Default,,0,0,0,,Lui ha già lo sguardo rivolto\Nalla prossima fase.
+Dialogue: 0,0:03:19.57,0:03:22.59,Default,,0,0,0,,Al fulcro dell'operazione\Ndi conquista dell'isola di Paradis...
+Dialogue: 0,0:03:23.20,0:03:25.89,Default,,0,0,0,,Il successore del Gigante Corazzato.
+Dialogue: 0,0:04:58.02,0:05:03.03,Default,,0,0,0,,AL DI LÀ DEL MARE
+Dialogue: 0,0:05:07.72,0:05:09.49,Default,,0,0,0,,Il Gigante Corazzato...
+Dialogue: 0,0:05:10.68,0:05:13.50,Default,,0,0,0,,Mi chiedo chi sceglieranno, eh?
+Dialogue: 0,0:05:15.98,0:05:21.67,Default,,0,0,0,,Gabi, dal tuo tono sembra che non ci sia\Nnessuno di paragonabile a te.
+Dialogue: 0,0:05:21.86,0:05:23.92,Default,,0,0,0,,Perché, non è forse così?
+Dialogue: 0,0:05:24.57,0:05:27.30,Default,,0,0,0,,Sì, non c'è paragone tra noi e Gabi...
+Dialogue: 0,0:05:27.99,0:05:29.68,Default,,0,0,0,,Con i voti che abbiamo ora...
+Dialogue: 0,0:05:29.86,0:05:32.52,Default,,0,0,0,,No, non è questione di voti, Udo.
+Dialogue: 0,0:05:32.69,0:05:34.18,Default,,0,0,0,,Ve lo ripeto sempre.
+Dialogue: 0,0:05:34.66,0:05:38.19,Default,,0,0,0,,La differenza tra me e voi\Nè la determinazione.
+Dialogue: 0,0:05:38.58,0:05:40.86,Default,,0,0,0,,Io sono pronta a farmi carico\Ndel destino degli eldiani,
+Dialogue: 0,0:05:41.01,0:05:46.70,Default,,0,0,0,,e a sterminare fino all'ultimo i demoni\Ndi quell'isola che ci fanno soffrire.
+Dialogue: 0,0:05:46.99,0:05:51.16,Default,,0,0,0,,Vincendo questa guerra,\Ndimostrerò al mondo intero
+Dialogue: 0,0:05:51.34,0:05:54.08,Default,,0,0,0,,che a questo mondo\Nrimangono solo eldiani buoni.
+Dialogue: 0,0:05:54.41,0:05:55.96,Default,,0,0,0,,Io non perderò.
+Dialogue: 0,0:05:56.13,0:05:59.08,Default,,0,0,0,,Libererò tutti\Ndai distretti d'internamento.
+Dialogue: 0,0:06:02.11,0:06:02.84,Default,,0,0,0,,Comunque...
+Dialogue: 0,0:06:03.48,0:06:05.59,Default,,0,0,0,,Cos'è che stai costruendo da prima?
+Dialogue: 0,0:06:06.44,0:06:07.97,Default,,0,0,0,,Dici questo? Bello, vero?
+Dialogue: 0,0:06:08.15,0:06:10.55,Default,,0,0,0,,Perché, comandante Magath?
+Dialogue: 0,0:06:10.71,0:06:16.89,Default,,0,0,0,,La nostra fanteria non può distruggere\Ni binari dietro quella mitragliatrice.
+Dialogue: 0,0:06:17.29,0:06:20.35,Default,,0,0,0,,La trincea nemica è ottima,\Nla loro difesa è impenetrabile.
+Dialogue: 0,0:06:20.79,0:06:24.44,Default,,0,0,0,,Inoltre possono contare\Nsul supporto dell'artiglieria dal Forte.
+Dialogue: 0,0:06:24.61,0:06:28.86,Default,,0,0,0,,Fermi qui siamo solo dei bersagli\Nper le loro granate.
+Dialogue: 0,0:06:29.47,0:06:32.24,Default,,0,0,0,,Sembri avere un'idea, Colt.
+Dialogue: 0,0:06:33.30,0:06:36.25,Default,,0,0,0,,Usiamo il Mascella e il Carro.
+Dialogue: 0,0:06:37.10,0:06:39.67,Default,,0,0,0,,Galliard e Pieck possono cavarci dai guai.
+Dialogue: 0,0:06:39.82,0:06:43.17,Default,,0,0,0,,Dovrebbero riuscire a eliminare sia\Nla casamatta che i nemici nella trincea.
+Dialogue: 0,0:06:43.35,0:06:44.13,Default,,0,0,0,,No.
+Dialogue: 0,0:06:45.23,0:06:47.88,Default,,0,0,0,,Dobbiamo giocare le nostre carte\Nnell'ordine giusto o perderemo.
+Dialogue: 0,0:06:48.44,0:06:51.39,Default,,0,0,0,,Comandante Magath,\Nè arrivata quella cosa.
+Dialogue: 0,0:06:52.03,0:06:53.39,Default,,0,0,0,,Di cosa parla?
+Dialogue: 0,0:06:54.74,0:06:55.97,Default,,0,0,0,,Di quello.
+Dialogue: 0,0:06:56.39,0:07:01.40,Default,,0,0,0,,Il treno blindato.\NQuattro cannoni tra fronte e retro.
+Dialogue: 0,0:07:01.91,0:07:05.52,Default,,0,0,0,,La nuova arma degli Alleati,\Ni cannoni anti-Gigante.
+Dialogue: 0,0:07:05.90,0:07:09.28,Default,,0,0,0,,I proiettili perforanti\Ndi calibro 150mm di quei cannoni
+Dialogue: 0,0:07:09.46,0:07:11.78,Default,,0,0,0,,possono abbattare un Gigante\Nin un colpo solo.
+Dialogue: 0,0:07:11.94,0:07:14.20,Default,,0,0,0,,Persino uno dei Nove.
+Dialogue: 0,0:07:14.37,0:07:17.75,Default,,0,0,0,,Ma i nostri due Giganti\Nsono entrambi molto agili...
+Dialogue: 0,0:07:17.91,0:07:19.66,Default,,0,0,0,,Non dovrebbero riuscire\Na colpire la loro nuca.
+Dialogue: 0,0:07:19.83,0:07:21.12,Default,,0,0,0,,Ma se succedesse?
+Dialogue: 0,0:07:22.27,0:07:25.67,Default,,0,0,0,,Perderemmo un Guerriero\Ne il potere del suo Gigante,
+Dialogue: 0,0:07:25.85,0:07:29.13,Default,,0,0,0,,e non ci sarebbe nessuna garanzia\Ndi riuscire a riaverlo indietro.
+Dialogue: 0,0:07:29.30,0:07:30.47,Default,,0,0,0,,Esatto.
+Dialogue: 0,0:07:30.62,0:07:33.59,Default,,0,0,0,,Il piano per il recupero del Fondatore\Niniziato nove anni fa
+Dialogue: 0,0:07:33.76,0:07:35.30,Default,,0,0,0,,finirebbe con un'altra clamorosa perdita.
+Dialogue: 0,0:07:35.48,0:07:39.06,Default,,0,0,0,,Proprio come quando abbiamo perso\Nil Colossale e il Femmina.
+Dialogue: 0,0:07:39.79,0:07:42.27,Default,,0,0,0,,Il mondo si accorse della diminuzione\Ndella nostra potenza militare
+Dialogue: 0,0:07:42.46,0:07:45.23,Default,,0,0,0,,e cominciò così la guerra\Nche continua tutt'oggi,
+Dialogue: 0,0:07:45.41,0:07:48.32,Default,,0,0,0,,ritardando l'operazione\Nsull'isola di Paradis.
+Dialogue: 0,0:07:49.05,0:07:52.70,Default,,0,0,0,,Cosa permise a Marley, la nostra patria,\Ndi diventare la superpotenza che è oggi?
+Dialogue: 0,0:07:53.30,0:07:55.07,Default,,0,0,0,,Il potere dei Giganti.
+Dialogue: 0,0:07:55.25,0:07:59.58,Default,,0,0,0,,Esatto, e se ne perdiamo altri\Nla nostra nazione crollerà.
+Dialogue: 0,0:07:59.97,0:08:02.54,Default,,0,0,0,,Il potere dei Giganti è assoluto.
+Dialogue: 0,0:08:02.70,0:08:04.83,Default,,0,0,0,,E deve rimanere tale.
+Dialogue: 0,0:08:05.60,0:08:08.21,Default,,0,0,0,,Ordina all'unità eldiana\Ndi prepararsi all'assalto.
+Dialogue: 0,0:08:08.40,0:08:09.17,Default,,0,0,0,,Signorsì!
+Dialogue: 0,0:08:09.34,0:08:10.97,Default,,0,0,0,,Comandante Magath, un attimo!
+Dialogue: 0,0:08:11.13,0:08:13.13,Default,,0,0,0,,Cosa c'è, eldiano?
+Dialogue: 0,0:08:13.53,0:08:17.68,Default,,0,0,0,,Voi siete Guerrieri che hanno giurato\Nfedeltà a Marley, giusto?
+Dialogue: 0,0:08:19.33,0:08:22.94,Default,,0,0,0,,È l'occasione\Nper tutti voi 800 eldiani
+Dialogue: 0,0:08:23.09,0:08:26.86,Default,,0,0,0,,di ricevere gli onori\Ndalla nostra patria.
+Dialogue: 0,0:08:34.86,0:08:37.74,Default,,0,0,0,,Soldati, in piedi!\NPrepararsi all'assalto!
+Dialogue: 0,0:08:39.64,0:08:41.62,Default,,0,0,0,,Dai, alzati!
+Dialogue: 0,0:08:42.39,0:08:45.50,Default,,0,0,0,,Il compito dell'unità eldiana
+Dialogue: 0,0:08:45.67,0:08:49.25,Default,,0,0,0,,è di assaltare e distruggere\Nla ferrovia nemica.
+Dialogue: 0,0:08:49.53,0:08:54.34,Default,,0,0,0,,La squadra suicida punterà alla casamatta\Ne neutralizzerà la mitragliatrice.
+Dialogue: 0,0:08:54.76,0:08:55.47,Default,,0,0,0,,Ascoltatemi bene!
+Dialogue: 0,0:08:55.66,0:08:59.76,Default,,0,0,0,,Questa è un'opportunità di redenzione\Nper voi sporchi discendenti del demonio!
+Dialogue: 0,0:09:00.29,0:09:04.44,Default,,0,0,0,,È l'occasione perfetta per ricevere\Nonori da Marley, la nostra patria!
+Dialogue: 0,0:09:05.12,0:09:06.56,Default,,0,0,0,,Ricordatelo e andate!
+Dialogue: 0,0:09:06.74,0:09:07.81,Default,,0,0,0,,Signorsì!
+Dialogue: 0,0:09:08.37,0:09:11.65,Default,,0,0,0,,Voi Guerrieri cadetti aspetterete qui.
+Dialogue: 0,0:09:11.83,0:09:14.53,Default,,0,0,0,,L'assalto degli altri 800 soldati eldiani\Nche sta per cominciare
+Dialogue: 0,0:09:14.71,0:09:18.07,Default,,0,0,0,,dovrà distruggere la ferrovia nemica\Na ogni costo.
+Dialogue: 0,0:09:18.43,0:09:22.12,Default,,0,0,0,,Finché il treno blindato\Nè libero di muoversi attorno al Forte,
+Dialogue: 0,0:09:22.30,0:09:26.08,Default,,0,0,0,,non possiamo chiamare\Nné il Corazzato né il Bestia.
+Dialogue: 0,0:09:26.64,0:09:27.83,Default,,0,0,0,,Tuttavia...
+Dialogue: 0,0:09:28.98,0:09:32.38,Default,,0,0,0,,Colt, tu sei il potenziale\Nsuccessore del Bestia.
+Dialogue: 0,0:09:32.57,0:09:36.22,Default,,0,0,0,,È ora che sviluppi la determinazione\Nnecessaria a comandare gli altri.
+Dialogue: 0,0:09:44.12,0:09:47.56,Default,,0,0,0,,Bene, è un'ottima occasione\Nper distruggere anche il treno.
+Dialogue: 0,0:09:47.75,0:09:50.27,Default,,0,0,0,,La prego, lo faccia fare a me.
+Dialogue: 0,0:09:51.08,0:09:52.23,Default,,0,0,0,,Tadaaan!
+Dialogue: 0,0:09:52.79,0:09:56.74,Default,,0,0,0,,Posso neutralizzare il treno blindato\Ncompletamente da sola.
+Dialogue: 0,0:09:58.72,0:09:59.99,Default,,0,0,0,,Ferma, Gabi...
+Dialogue: 0,0:10:00.51,0:10:04.58,Default,,0,0,0,,Hai un'idea di quanto costi al Paese\Nil vostro addestramento?
+Dialogue: 0,0:10:04.76,0:10:05.50,Default,,0,0,0,,Respinto.
+Dialogue: 0,0:10:06.06,0:10:10.08,Default,,0,0,0,,In effetti ho molto più talento naturale\Ndi Falco e gli altri.
+Dialogue: 0,0:10:10.44,0:10:14.80,Default,,0,0,0,,Una Guerriera straordinaria come me\Nnon si ripresenterà mai più.
+Dialogue: 0,0:10:15.40,0:10:18.01,Default,,0,0,0,,E per giunta sono davvero carina...
+Dialogue: 0,0:10:18.49,0:10:24.06,Default,,0,0,0,,Tuttavia, se avrò successo, lei eviterà\Ndi perdere 800 soldati eldiani.
+Dialogue: 0,0:10:24.41,0:10:25.64,Default,,0,0,0,,E se fallirai?
+Dialogue: 0,0:10:26.06,0:10:31.15,Default,,0,0,0,,Perderà solo una Guerriera cadetta\Npromettente e sette granate a mano.
+Dialogue: 0,0:10:35.09,0:10:36.06,Default,,0,0,0,,Certo,
+Dialogue: 0,0:10:36.15,0:10:40.78,Default,,0,0,0,,se reputa la mia vita più importante\Ndi 800 soldati non posso farci nulla...
+Dialogue: 0,0:10:41.22,0:10:46.50,Default,,0,0,0,,Se lei, signor comandante, mi ama al punto\Nda sacrificare ben 800 vite per me...
+Dialogue: 0,0:10:46.66,0:10:47.91,Default,,0,0,0,,Va bene.
+Dialogue: 0,0:10:49.14,0:10:49.92,Default,,0,0,0,,Procedi.
+Dialogue: 0,0:10:50.85,0:10:52.92,Default,,0,0,0,,- No... Gabi...\N- Vedrà...
+Dialogue: 0,0:10:53.45,0:10:58.42,Default,,0,0,0,,Le dimostrerò di essere una Guerriera\Ndegna di ereditare il Corazzato.
+Dialogue: 0,0:11:02.70,0:11:04.10,Default,,0,0,0,,Cosa stai facendo?
+Dialogue: 0,0:11:04.66,0:11:06.56,Default,,0,0,0,,È per la riuscita del piano.
+Dialogue: 0,0:11:07.87,0:11:10.56,Default,,0,0,0,,La prego di permettermi\Ndi togliere temporaneamente la fascia.
+Dialogue: 0,0:11:11.16,0:11:12.06,Default,,0,0,0,,Va bene.
+Dialogue: 0,0:11:19.42,0:11:22.57,Default,,0,0,0,,Ehi.\NSta arrivando qualcuno, è solo.
+Dialogue: 0,0:11:24.76,0:11:27.33,Default,,0,0,0,,Una donna?\NMa è una bambina...
+Dialogue: 0,0:11:27.69,0:11:29.08,Default,,0,0,0,,Sembra che voglia arrendersi.
+Dialogue: 0,0:11:29.27,0:11:31.96,Default,,0,0,0,,Aspetta un attimo.\NPotrebbe essere un'eldiana.
+Dialogue: 0,0:11:32.12,0:11:34.71,Default,,0,0,0,,Però c'è qualcosa di strano...
+Dialogue: 0,0:11:34.97,0:11:36.96,Default,,0,0,0,,Ha una catena al piede.
+Dialogue: 0,0:11:39.11,0:11:41.51,Default,,0,0,0,,È troppo vicina,\Nscommetto che è un'eldiana.
+Dialogue: 0,0:11:41.67,0:11:46.60,Default,,0,0,0,,- Spara prima che si trasformi in Gigante.\N- Scherzi? Fallo tu con il fucile.
+Dialogue: 0,0:11:48.53,0:11:49.52,Default,,0,0,0,,Merda...
+Dialogue: 0,0:11:55.08,0:11:55.98,Default,,0,0,0,,Ma cosa...?
+Dialogue: 0,0:12:07.91,0:12:08.62,Default,,0,0,0,,Non ancora...
+Dialogue: 0,0:12:11.77,0:12:12.75,Default,,0,0,0,,Non ancora...
+Dialogue: 0,0:12:16.69,0:12:17.63,Default,,0,0,0,,Non ancora...
+Dialogue: 0,0:12:18.06,0:12:20.51,Default,,0,0,0,,- Non si muove.\N- Non importa, sparale!
+Dialogue: 0,0:12:25.07,0:12:28.97,Default,,0,0,0,,Adesso!
+Dialogue: 0,0:12:38.67,0:12:39.61,Default,,0,0,0,,Ce l'ha fatta!
+Dialogue: 0,0:12:40.59,0:12:41.99,Default,,0,0,0,,Galliard, sbrigati!
+Dialogue: 0,0:12:46.34,0:12:49.87,Default,,0,0,0,,Merda... viscidi marleyani...
+Dialogue: 0,0:12:50.47,0:12:53.25,Default,,0,0,0,,È proprio per questo che...
+Dialogue: 0,0:12:54.27,0:12:57.00,Default,,0,0,0,,...non possiamo permettervi\Ndi fare quello che volete!
+Dialogue: 0,0:12:59.65,0:13:00.59,Default,,0,0,0,,Gabi!
+Dialogue: 0,0:13:00.75,0:13:01.84,Default,,0,0,0,,Fermo, Falco!
+Dialogue: 0,0:13:20.88,0:13:22.36,Default,,0,0,0,,Signor Galliard!
+Dialogue: 0,0:13:37.89,0:13:40.21,Default,,0,0,0,,Il treno blindato\Nè stato messo fuori uso.
+Dialogue: 0,0:13:40.56,0:13:42.96,Default,,0,0,0,,L'operazione di discesa ha inizio.
+Dialogue: 0,0:13:43.57,0:13:45.34,Default,,0,0,0,,Mi raccomando, attenetevi al piano.
+Dialogue: 0,0:13:45.94,0:13:47.26,Default,,0,0,0,,Zeke, tu sarai la lancia.
+Dialogue: 0,0:13:48.15,0:13:50.05,Default,,0,0,0,,Reiner, tu sarai lo scudo.
+Dialogue: 0,0:13:51.01,0:13:56.02,Default,,0,0,0,,La nazione militare di Marley usa Giganti\Ne forze armate per conquistare nazioni.
+Dialogue: 0,0:14:55.68,0:14:57.12,Default,,0,0,0,,Merda, fa male!
+Dialogue: 0,0:14:57.29,0:14:59.50,Default,,0,0,0,,Perché dovevano sparare\Nproprio a me, un marleyano?
+Dialogue: 0,0:14:59.67,0:15:03.25,Default,,0,0,0,,- Che stai facendo, Falco?\N- Mi sembra ovvio.
+Dialogue: 0,0:15:04.00,0:15:06.38,Default,,0,0,0,,L'ho preso prigioniero\Nvisto che non può combattere.
+Dialogue: 0,0:15:07.02,0:15:08.76,Default,,0,0,0,,Udo, il laccio emostatico.
+Dialogue: 0,0:15:08.92,0:15:11.89,Default,,0,0,0,,- Tieni.\N- Stupido moccioso, non badare ai nemici!
+Dialogue: 0,0:15:13.11,0:15:15.89,Default,,0,0,0,,È così che vuoi guadagnare punti?
+Dialogue: 0,0:15:16.33,0:15:19.39,Default,,0,0,0,,Pensi di mettermi in ombra\Nrispettando il diritto internazionale,
+Dialogue: 0,0:15:19.58,0:15:21.90,Default,,0,0,0,,e riuscire così\Na ereditare il Corazzato?
+Dialogue: 0,0:15:22.41,0:15:24.69,Default,,0,0,0,,Quello che stai facendo\Nnon è utile a nessuno.
+Dialogue: 0,0:15:25.04,0:15:25.98,Default,,0,0,0,,E allora?
+Dialogue: 0,0:15:27.96,0:15:28.90,Default,,0,0,0,,Sei strano.
+Dialogue: 0,0:15:31.42,0:15:32.41,Default,,0,0,0,,Sta dicendo qualcosa.
+Dialogue: 0,0:15:36.97,0:15:38.41,Default,,0,0,0,,Puoi tradurre, Udo?
+Dialogue: 0,0:15:38.58,0:15:41.29,Default,,0,0,0,,Digli che l'emorragia si è fermata,\Nquindi può stare tranquillo.
+Dialogue: 0,0:15:41.46,0:15:42.54,Default,,0,0,0,,"Non toccarmi."
+Dialogue: 0,0:15:43.29,0:15:44.54,Default,,0,0,0,,"Sei impuro."
+Dialogue: 0,0:15:45.65,0:15:48.05,Default,,0,0,0,,"Demone."\NÈ quello che ha detto.
+Dialogue: 0,0:15:58.83,0:16:00.06,Default,,0,0,0,,Ritirata!
+Dialogue: 0,0:16:00.43,0:16:01.48,Default,,0,0,0,,Veloci!
+Dialogue: 0,0:16:01.66,0:16:04.56,Default,,0,0,0,,- Allontaniamoci dal Forte!\N- Attenti a non rimanere indietro!
+Dialogue: 0,0:16:10.00,0:16:11.45,Default,,0,0,0,,È cominciata.
+Dialogue: 0,0:17:34.80,0:17:37.57,Default,,0,0,0,,No, non farlo!
+Dialogue: 0,0:17:44.52,0:17:47.75,Default,,0,0,0,,Veri e propri demoni...
+Dialogue: 0,0:17:48.89,0:17:53.63,Default,,0,0,0,,Anche gli antenati di noi marleyani\Nsono stati divorati in quel modo...
+Dialogue: 0,0:17:54.53,0:17:56.63,Default,,0,0,0,,...da voi eldiani.
+Dialogue: 0,0:18:08.16,0:18:10.52,Default,,0,0,0,,Come bombardamento cinetico\Nè abbastanza potente,
+Dialogue: 0,0:18:10.70,0:18:15.28,Default,,0,0,0,,ma a causa dell'altitudine eccessiva\Nmetà di loro è morta nell'impatto.
+Dialogue: 0,0:18:16.92,0:18:19.95,Default,,0,0,0,,Molti cannoni anti-Gigante\Nsono ancora operativi.
+Dialogue: 0,0:18:21.14,0:18:25.70,Default,,0,0,0,,Ventotto, ventinove...\NHo capito quanti e dove sono.
+Dialogue: 0,0:18:25.86,0:18:26.87,Default,,0,0,0,,Certo che...
+Dialogue: 0,0:18:28.64,0:18:30.29,Default,,0,0,0,,Di nuovo mura?
+Dialogue: 0,0:18:32.48,0:18:33.80,Default,,0,0,0,,Ormai le mura...
+Dialogue: 0,0:18:34.44,0:18:35.71,Default,,0,0,0,,...non le sopporto più.
+Dialogue: 0,0:18:54.54,0:18:56.61,Default,,0,0,0,,- Il Corazzato!\N- Uccidetelo!
+Dialogue: 0,0:19:04.99,0:19:06.50,Default,,0,0,0,,Fuoco!
+Dialogue: 0,0:19:09.68,0:19:13.63,Default,,0,0,0,,Proiettili perforanti anti-Gigante.\NPenetrano persino la mia corazza?
+Dialogue: 0,0:19:17.07,0:19:19.26,Default,,0,0,0,,Cos'è stato?\NCosa mi ha colpito?!
+Dialogue: 0,0:19:21.01,0:19:23.72,Default,,0,0,0,,Un treno blindato? Ancora?
+Dialogue: 0,0:19:45.09,0:19:46.33,Default,,0,0,0,,Fuoco!
+Dialogue: 0,0:19:51.10,0:19:52.33,Default,,0,0,0,,Galliard!
+Dialogue: 0,0:19:52.71,0:19:55.09,Default,,0,0,0,,Maledetti discendenti\Ndi quella puttana!
+Dialogue: 0,0:20:27.30,0:20:28.12,Default,,0,0,0,,Bene.
+Dialogue: 0,0:20:36.14,0:20:37.63,Default,,0,0,0,,Ha preso il controllo?
+Dialogue: 0,0:20:39.06,0:20:42.76,Default,,0,0,0,,Questa guerra è il risultato\Ndella nostra sconfitta, Reiner.
+Dialogue: 0,0:20:54.00,0:20:56.94,Default,,0,0,0,,La guerra è davvero una brutta cosa.
+Dialogue: 0,0:21:13.14,0:21:16.21,Default,,0,0,0,,Adesso finalmente la guerra finirà...
+Dialogue: 0,0:22:01.19,0:22:03.80,Default,,0,0,0,,In seguito all'annientamento\Ndella loro flotta,
+Dialogue: 0,0:22:03.96,0:22:07.72,Default,,0,0,0,,gli Alleati Mediorientali firmarono\Nun trattato di pace con il nemico.
+Dialogue: 0,0:22:08.20,0:22:12.56,Default,,0,0,0,,La guerra che infuriava da ormai 4 anni\Nsi chiuse con la vittoria di Marley.
+Dialogue: 0,0:22:13.41,0:22:20.15,Default,,0,0,0,,Ma il mondo capì che l'epoca del dominio\Nassoluto dei Giganti stava tramontando.
+Dialogue: 0,0:22:20.71,0:22:22.69,Default,,0,0,0,,Per Marley si fece sempre più pressante
+Dialogue: 0,0:22:22.87,0:22:26.65,Default,,0,0,0,,la necessità di riavere\Nil Gigante Fondatore il prima possibile.
+Dialogue: 0,0:22:28.09,0:22:29.66,Default,,0,0,0,,Non ci credo...
+Dialogue: 0,0:22:33.93,0:22:36.71,Default,,0,0,0,,Grazie alle imprese\Ndel valoroso esercito di Marley
+Dialogue: 0,0:22:36.89,0:22:39.71,Default,,0,0,0,,Forte Slava finalmente è caduto!
+Dialogue: 0,0:22:39.86,0:22:41.00,Default,,0,0,0,,Fantastici!
+Dialogue: 0,0:22:41.17,0:22:43.75,Default,,0,0,0,,Il nostro esercito è imbattibile!
+Dialogue: 0,0:22:43.92,0:22:46.17,Default,,0,0,0,,Evviva Marley!
+Dialogue: 0,0:23:39.98,0:23:40.68,Default,,0,0,0,,ANTICIPAZIONI
+Dialogue: 0,0:23:40.77,0:23:42.98,Default,,0,0,0,,L'esercito di Marley\Nè costretto a constatare
+Dialogue: 0,0:23:43.15,0:23:45.86,Default,,0,0,0,,che il potere dei Giganti\Nnon è più assoluto.
+Dialogue: 0,0:23:46.02,0:23:48.74,Default,,0,0,0,,Con un attimo fuggente\Ndi felicità nel cuore,
+Dialogue: 0,0:23:48.91,0:23:52.16,Default,,0,0,0,,i Guerrieri fanno ritorno\Nalla loro città natale di Liberio.
+Dialogue: 0,0:23:52.59,0:23:54.99,Default,,0,0,0,,Prossimo episodio:\N"Il treno di mezzanotte".
