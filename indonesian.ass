@@ -1,0 +1,249 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.65,0:00:11.03,Default,,0,0,0,,Hei...
+Dialogue: 0,0:00:15.24,0:00:18.12,Default,,0,0,0,,Berbahaya di sini ...
+Dialogue: 0,0:00:21.16,0:00:23.08,Default,,0,0,0,,Terbang menjauh...
+Dialogue: 0,0:00:24.71,0:00:28.29,Default,,0,0,0,,...suatu tempat yang jauh.
+Dialogue: 0,0:00:28.29,0:00:29.34,Default,,0,0,0,,Falco!
+Dialogue: 0,0:00:29.34,0:00:31.51,Default,,0,0,0,,--Hah? Apa yang dilakukan kakakku disini?
+Dialogue: 0,0:00:31.51,0:00:32.55,Default,,0,0,0,,--Baik! --Hah? Apa yang dilakukan kakakku disini?
+Dialogue: 0,0:00:32.55,0:00:33.84,Default,,0,0,0,,Anda masih berbicara!
+Dialogue: 0,0:00:33.84,0:00:35.63,Default,,0,0,0,,Kuda jantan muda!
+Dialogue: 0,0:00:35.63,0:00:37.85,Default,,0,0,0,,Waktunya untuk lari! Tahan!
+Dialogue: 0,0:00:48.52,0:00:49.69,Default,,0,0,0,,Falco!
+Dialogue: 0,0:00:56.07,0:00:58.45,Default,,0,0,0,,Kuda jantan muda? Laporan status?
+Dialogue: 0,0:01:00.87,0:01:03.00,Default,,0,0,0,,Itu adalah pukulan langsung.
+Dialogue: 0,0:01:05.46,0:01:08.96,Default,,0,0,0,,Unit Eldian di depan terlempar.
+Dialogue: 0,0:01:09.88,0:01:11.38,Default,,0,0,0,,Dan paritnya?
+Dialogue: 0,0:01:11.38,0:01:14.55,Default,,0,0,0,,Tidak ada harapan! Kami tidak bisa menggali lebih jauh!
+Dialogue: 0,0:01:14.55,0:01:19.22,Default,,0,0,0,,Kami tidak bisa? Anda memanggil tembakan? Seorang Tetua, memberi perintah?
+Dialogue: 0,0:01:19.22,0:01:22.64,Default,,0,0,0,,Perhatikan nada bicara Anda dengan Commander Magath, Anda mutt!
+Dialogue: 0,0:01:22.64,0:01:26.10,Default,,0,0,0,,Tapi ... kalau terus begini ...
+Dialogue: 0,0:01:26.10,0:01:28.40,Default,,0,0,0,,Falco, apa kamu mabuk?
+Dialogue: 0,0:01:28.40,0:01:30.73,Default,,0,0,0,,Dia pasti memukul kepalanya dengan baik.
+Dialogue: 0,0:01:30.73,0:01:34.90,Default,,0,0,0,,Apakah Anda ingat perang yang telah kita alami selama empat tahun ini?
+Dialogue: 0,0:01:34.90,0:01:38.20,Default,,0,0,0,,Siapa ... kalian?
+Dialogue: 0,0:01:38.20,0:01:40.57,Default,,0,0,0,,Tunggu ... Hah?
+Dialogue: 0,0:01:40.57,0:01:44.58,Default,,0,0,0,,Bukankah aku baru saja terbang berkeliling dengan pedang?
+Dialogue: 0,0:01:44.58,0:01:48.46,Default,,0,0,0,,Seperti, wusss! Dan ada Titan yang aku--
+Dialogue: 0,0:01:49.42,0:01:53.75,Default,,0,0,0,,Kurasa aku harus menjelaskan semuanya dari awal.
+Dialogue: 0,0:01:53.75,0:01:56.63,Default,,0,0,0,,Dengarkan baik-baik, Falco.
+Dialogue: 0,0:01:56.63,0:02:02.55,Default,,0,0,0,,Pertempuran ini merupakan klimaks dari perang yang berlangsung selama empat tahun.
+Dialogue: 0,0:02:02.55,0:02:05.81,Default,,0,0,0,,Jika kita bisa mengalahkan Fort Slava ...
+Dialogue: 0,0:02:05.81,0:02:11.56,Default,,0,0,0,,Nah, secara teknis, jika kita menenggelamkan armada Pasukan Sekutu Timur Tengah di pelabuhannya ...
+Dialogue: 0,0:02:11.56,0:02:16.40,Default,,0,0,0,,... itu akan menjadi kemenangan bagi Marley dan mengakhiri perang.
+Dialogue: 0,0:02:16.40,0:02:21.07,Default,,0,0,0,,Tapi kecuali kita mengambil Fort Slava yang duduk di tempat tinggi,
+Dialogue: 0,0:02:21.07,0:02:23.95,Default,,0,0,0,,tidak ada harapan untuk menyerang pelabuhan.
+Dialogue: 0,0:02:24.87,0:02:27.87,Default,,0,0,0,,Mengapa armada Marley tidak bisa melakukannya begitu saja?
+Dialogue: 0,0:02:27.87,0:02:31.50,Default,,0,0,0,,Serius, Zofia ?! Anda memiliki kepercayaan pada armada ?!
+Dialogue: 0,0:02:31.50,0:02:34.38,Default,,0,0,0,,--Butuh empat tahun orang dungu itu untuk menguasai lautan!
+Dialogue: 0,0:02:34.38,0:02:35.50,Default,,0,0,0,,--Ow! Ow ow! Ugh! Aduh! --Butuh empat tahun orang dungu itu untuk menguasai lautan!
+Dialogue: 0,0:02:35.50,0:02:40.05,Default,,0,0,0,,--Ow! Ow ow! Ugh! Aduh! --Dan coba tebak ?! Mereka kehilangan setengah kapal sialan mereka karena melakukannya!
+Dialogue: 0,0:02:40.05,0:02:46.02,Default,,0,0,0,,Sekarang mereka memberi tahu kita bahwa mereka terlalu ayam untuk diserang sampai kita merebut benteng ?!
+Dialogue: 0,0:02:46.02,0:02:48.43,Default,,0,0,0,,Persetan semuanya! Mereka bajingan!
+Dialogue: 0,0:02:48.43,0:02:52.10,Default,,0,0,0,,Udo, kau akan meremas kepala Falco.
+Dialogue: 0,0:02:52.10,0:02:54.94,Default,,0,0,0,,Ups! Maaf!
+Dialogue: 0,0:02:54.94,0:03:00.95,Default,,0,0,0,,Jadi apa masalahnya? Mengapa mereka mengirim kandidat Warrior ke garis depan?
+Dialogue: 0,0:03:00.95,0:03:03.49,Default,,0,0,0,,Untuk menilai kami, jelas.
+Dialogue: 0,0:03:03.49,0:03:07.75,Default,,0,0,0,,Untuk memilih siapa di antara kita yang akan menjadi Warrior berikutnya.
+Dialogue: 0,0:03:09.87,0:03:11.87,Default,,0,0,0,,Waktunya akan datang.
+Dialogue: 0,0:03:11.87,0:03:16.00,Default,,0,0,0,,Komandan Magath memilih garis depan sebagai ujian terakhir kami.
+Dialogue: 0,0:03:16.00,0:03:19.55,Default,,0,0,0,,Dia tahu apa yang akan terjadi.
+Dialogue: 0,0:03:19.55,0:03:23.18,Default,,0,0,0,,Rencana untuk menaklukkan Paradis membutuhkan pemain utama--
+Dialogue: 0,0:03:23.18,0:03:26.22,Default,,0,0,0,,penerus Armored Titan!
+Dialogue: 0,0:04:58.02,0:05:03.03,Default,,0,0,0,,"Sisi Lain Laut"
+Dialogue: 0,0:05:07.70,0:05:09.83,Default,,0,0,0,,Titan Lapis Baja ...
+Dialogue: 0,0:05:10.62,0:05:13.83,Default,,0,0,0,,Aku ingin tahu siapa dari kita yang akan ...
+Dialogue: 0,0:05:16.00,0:05:21.84,Default,,0,0,0,,Benarkah, Gabi? Kedengarannya seperti Anda mengatakan tidak ada dari kami yang mendekati Anda.
+Dialogue: 0,0:05:21.84,0:05:24.59,Default,,0,0,0,,Karena kamu tidak, kan?
+Dialogue: 0,0:05:24.59,0:05:27.97,Default,,0,0,0,,Nah, Gabi memang membuat kita mengalahkan.
+Dialogue: 0,0:05:27.97,0:05:29.80,Default,,0,0,0,,Sejauh nilai kami pergi.
+Dialogue: 0,0:05:29.80,0:05:34.64,Default,,0,0,0,,Tidak. Itu lebih dari sekedar nilai, Udo. Aku terus memberitahumu.
+Dialogue: 0,0:05:34.64,0:05:38.56,Default,,0,0,0,,Perbedaan di antara kita adalah bahwa saya siap.
+Dialogue: 0,0:05:38.56,0:05:40.98,Default,,0,0,0,,Untuk memikul nasib kami para Tetua ...
+Dialogue: 0,0:05:40.98,0:05:46.95,Default,,0,0,0,,... dan membantai pulau iblis yang tidak melakukan apa pun selain membuat kita menderita!
+Dialogue: 0,0:05:46.95,0:05:49.16,Default,,0,0,0,,Aku akan memenangkan pertarungan ini
+Dialogue: 0,0:05:49.16,0:05:54.37,Default,,0,0,0,,dan buktikan bahwa orang tua yang tersisa di dunia ini adalah orang tua yang baik!
+Dialogue: 0,0:05:54.37,0:05:59.58,Default,,0,0,0,,Saya menolak untuk kalah sampai saya membebaskan semua orang dari zona interniran!
+Dialogue: 0,0:06:02.09,0:06:06.34,Default,,0,0,0,,Um, sebenarnya apa yang kamu lakukan?
+Dialogue: 0,0:06:06.34,0:06:08.18,Default,,0,0,0,,Cukup keren, bukan?
+Dialogue: 0,0:06:08.18,0:06:10.93,Default,,0,0,0,,Itu tidak akan berhasil, Komandan Magath!
+Dialogue: 0,0:06:10.93,0:06:17.23,Default,,0,0,0,,Kita tidak bisa menghancurkan rel kereta api tanpa senapan mesin yang membantai kita terlebih dahulu.
+Dialogue: 0,0:06:17.23,0:06:20.73,Default,,0,0,0,,Mereka memiliki tentara di sepanjang setiap inci parit.
+Dialogue: 0,0:06:20.73,0:06:24.65,Default,,0,0,0,,Terlebih lagi, benteng dapat membombardir kita kapan pun mereka mau.
+Dialogue: 0,0:06:24.65,0:06:29.41,Default,,0,0,0,,Jika kita tinggal di sini terlalu lama, mereka hanya akan menghujani kita dengan cangkang!
+Dialogue: 0,0:06:29.41,0:06:33.28,Default,,0,0,0,,Apakah Anda punya ide yang lebih baik, Colt?
+Dialogue: 0,0:06:33.28,0:06:37.08,Default,,0,0,0,,Kita harus melepaskan Jaw dan Cart.
+Dialogue: 0,0:06:37.08,0:06:39.83,Default,,0,0,0,,Galliard dan Pieck akan menyelesaikannya.
+Dialogue: 0,0:06:39.83,0:06:43.25,Default,,0,0,0,,Mereka akan menghapus parit dan bunker dalam sekejap.
+Dialogue: 0,0:06:43.25,0:06:45.21,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:06:45.21,0:06:48.38,Default,,0,0,0,,Jika kami salah memainkan kartu, kami kalah.
+Dialogue: 0,0:06:48.38,0:06:52.01,Default,,0,0,0,,Komandan Magath, "itu" muncul.
+Dialogue: 0,0:06:52.01,0:06:54.68,Default,,0,0,0,,Apa itu"?
+Dialogue: 0,0:06:54.68,0:06:57.93,Default,,0,0,0,,Bahwa. Kereta lapis baja.
+Dialogue: 0,0:06:57.93,0:07:01.85,Default,,0,0,0,,Itu dilengkapi dengan total empat meriam besar.
+Dialogue: 0,0:07:01.85,0:07:05.86,Default,,0,0,0,,Mereka adalah senjata baru Sekutu - meriam anti-Titan.
+Dialogue: 0,0:07:05.86,0:07:11.91,Default,,0,0,0,,Jika salah satu dari peluru 150mm itu mengenai Titan, itu akan membunuhnya dalam satu pukulan.
+Dialogue: 0,0:07:11.91,0:07:14.33,Default,,0,0,0,,Bahkan salah satu dari Sembilan.
+Dialogue: 0,0:07:14.33,0:07:19.66,Default,,0,0,0,,Tapi kedua Titan kami sangat cepat. Kemungkinan memukul tengkuk mereka--
+Dialogue: 0,0:07:19.66,0:07:22.17,Default,,0,0,0,,Dan jika mereka melakukannya?
+Dialogue: 0,0:07:22.17,0:07:25.79,Default,,0,0,0,,Kami akan kehilangan Titan dan Warrior ...
+Dialogue: 0,0:07:25.79,0:07:29.34,Default,,0,0,0,,... tanpa jaminan bahwa kami mendapatkan kembali kekuatan mereka.
+Dialogue: 0,0:07:29.34,0:07:35.43,Default,,0,0,0,,Betul sekali. Sama seperti rencana kami sembilan tahun lalu untuk merebut kembali Founding Titan
+Dialogue: 0,0:07:35.43,0:07:39.68,Default,,0,0,0,,mengakibatkan kami kehilangan Colossal dan Female Titan.
+Dialogue: 0,0:07:39.68,0:07:45.40,Default,,0,0,0,,Serangan yang dirasakan terhadap kekuatan militer Marley adalah yang memicu perang ini,
+Dialogue: 0,0:07:45.40,0:07:48.98,Default,,0,0,0,,menunda Operasi Pulau Paradis.
+Dialogue: 0,0:07:48.98,0:07:53.24,Default,,0,0,0,,Apa yang membuat ibu pertiwi kita Marley begitu hebat?
+Dialogue: 0,0:07:53.24,0:07:55.24,Default,,0,0,0,,Kekuatan Para Titan.
+Dialogue: 0,0:07:55.24,0:07:59.91,Default,,0,0,0,,Benar. Bangsa kita tidak akan bertahan jika kita terus kehilangan mereka.
+Dialogue: 0,0:07:59.91,0:08:05.50,Default,,0,0,0,,The Power of the Titans adalah mutlak, dan harus selalu seperti itu.
+Dialogue: 0,0:08:05.50,0:08:08.30,Default,,0,0,0,,Siapkan unit Eldian untuk menyerang!
+Dialogue: 0,0:08:08.30,0:08:09.30,Default,,0,0,0,,Ya pak!
+Dialogue: 0,0:08:09.30,0:08:11.05,Default,,0,0,0,,Komandan Magath! Tapi itu--
+Dialogue: 0,0:08:11.05,0:08:13.55,Default,,0,0,0,,Ada apa, Eldian?
+Dialogue: 0,0:08:13.55,0:08:17.89,Default,,0,0,0,,Apakah Anda bukan pejuang yang bersumpah setia kepada Marley?
+Dialogue: 0,0:08:19.35,0:08:22.94,Default,,0,0,0,,Ini adalah kesempatan untuk 800 Elder di sini ...
+Dialogue: 0,0:08:22.94,0:08:27.23,Default,,0,0,0,,... untuk melayani tanah air kita dengan hormat.
+Dialogue: 0,0:08:32.07,0:08:34.95,Default,,0,0,0,,Semua makhluk meminum kegembiraan di dada alam ...
+Dialogue: 0,0:08:34.95,0:08:38.24,Default,,0,0,0,,Semuanya bangun! Bersiaplah untuk menyerang!
+Dialogue: 0,0:08:39.66,0:08:42.33,Default,,0,0,0,,Ayo! Berdiri!
+Dialogue: 0,0:08:42.33,0:08:43.58,Default,,0,0,0,,Sesepuh!
+Dialogue: 0,0:08:43.58,0:08:49.55,Default,,0,0,0,,Misi Anda adalah menyerang dan menghancurkan rel kereta api musuh!
+Dialogue: 0,0:08:49.55,0:08:54.68,Default,,0,0,0,,Pasukan bunuh diri akan menyerbu bunker dan melumpuhkan senapan mesin!
+Dialogue: 0,0:08:54.68,0:09:00.31,Default,,0,0,0,,Dengarkan! Biarkan tindakan Anda membersihkan aib menjadi bibit iblis!
+Dialogue: 0,0:09:00.31,0:09:05.02,Default,,0,0,0,,Ini adalah kesempatan Anda untuk dihormati oleh ibu pertiwi kita yang hebat, Marley!
+Dialogue: 0,0:09:05.02,0:09:06.77,Default,,0,0,0,,Buktikan dirimu layak!
+Dialogue: 0,0:09:06.77,0:09:08.36,Default,,0,0,0,,Ya pak!
+Dialogue: 0,0:09:08.36,0:09:11.86,Default,,0,0,0,,Anda para calon Warrior harus bersiap.
+Dialogue: 0,0:09:11.86,0:09:18.37,Default,,0,0,0,,Unit Eldian berkekuatan 800 orang harus menghancurkan rel dengan cara apapun.
+Dialogue: 0,0:09:18.37,0:09:22.29,Default,,0,0,0,,Selama kereta lapis baja itu berpatroli di benteng,
+Dialogue: 0,0:09:22.29,0:09:26.54,Default,,0,0,0,,Titan Lapis Baja dan Binatang tidak bisa melakukan apa yang mereka inginkan.
+Dialogue: 0,0:09:26.54,0:09:28.00,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:09:28.92,0:09:32.55,Default,,0,0,0,,Kuda jantan muda. Sebagai penerus terpilih dari Beast Titan,
+Dialogue: 0,0:09:32.55,0:09:36.63,Default,,0,0,0,,pelajari apa artinya memimpin.
+Dialogue: 0,0:09:44.10,0:09:47.69,Default,,0,0,0,,Sempurna. Kita juga bisa menghancurkan kereta.
+Dialogue: 0,0:09:47.69,0:09:50.27,Default,,0,0,0,,Tolong, biarkan saya mencobanya.
+Dialogue: 0,0:09:50.27,0:09:52.73,Default,,0,0,0,,--Hah? --Ta-da!
+Dialogue: 0,0:09:52.73,0:09:57.36,Default,,0,0,0,,Jika Anda mengizinkan saya, saya bisa menonaktifkan kereta lapis baja sendirian!
+Dialogue: 0,0:09:58.70,0:10:00.45,Default,,0,0,0,,Hei, Gabi!
+Dialogue: 0,0:10:00.45,0:10:06.04,Default,,0,0,0,,Menurut Anda, berapa banyak yang dihabiskan Marley untuk melatih Anda selama ini? Tidak.
+Dialogue: 0,0:10:06.04,0:10:10.42,Default,,0,0,0,,Memang benar ... Saya luar biasa dibandingkan dengan Falco dan yang lainnya.
+Dialogue: 0,0:10:10.42,0:10:15.34,Default,,0,0,0,,Mungkin tidak akan pernah ada Warrior lain yang berbakat seperti saya.
+Dialogue: 0,0:10:15.34,0:10:18.47,Default,,0,0,0,,Belum lagi yang satu ini imut.
+Dialogue: 0,0:10:18.47,0:10:24.31,Default,,0,0,0,,Tetapi jika saya berhasil, kami tidak akan kehilangan seluruh unit 800 Elder!
+Dialogue: 0,0:10:24.31,0:10:26.02,Default,,0,0,0,,Dan jika Anda gagal?
+Dialogue: 0,0:10:26.02,0:10:31.86,Default,,0,0,0,,Anda hanya kehilangan satu kandidat yang menjanjikan dan tujuh granat tangan.
+Dialogue: 0,0:10:35.03,0:10:41.20,Default,,0,0,0,,Jika Anda pikir saya lebih berharga dari 800 tentara Eldian, saya sangat mengerti.
+Dialogue: 0,0:10:41.20,0:10:46.50,Default,,0,0,0,,Kamu sangat mencintaiku sehingga kamu lebih suka mengorbankan nyawa 800 tentara untukku--
+Dialogue: 0,0:10:46.50,0:10:48.12,Default,,0,0,0,,Baik.
+Dialogue: 0,0:10:49.08,0:10:50.83,Default,,0,0,0,,Lanjutkan.
+Dialogue: 0,0:10:50.83,0:10:52.21,Default,,0,0,0,,Gabi, jangan--
+Dialogue: 0,0:10:52.21,0:10:59.05,Default,,0,0,0,,Aku bersumpah! Saya akan membuktikan kepada Anda bahwa saya layak mewarisi Armored Titan!
+Dialogue: 0,0:11:02.64,0:11:04.60,Default,,0,0,0,,Apa yang sedang kamu lakukan?
+Dialogue: 0,0:11:04.60,0:11:06.77,Default,,0,0,0,,Agar ini berhasil ...
+Dialogue: 0,0:11:07.77,0:11:11.10,Default,,0,0,0,,... izinkan saya melepas ban lengan saya.
+Dialogue: 0,0:11:11.10,0:11:12.60,Default,,0,0,0,,Sangat baik.
+Dialogue: 0,0:11:19.36,0:11:22.57,Default,,0,0,0,,Hei, seseorang datang lewat sini.
+Dialogue: 0,0:11:24.74,0:11:29.25,Default,,0,0,0,,Itu seorang wanita. Gadis, sebenarnya. Saya pikir dia menyerah.
+Dialogue: 0,0:11:29.25,0:11:32.08,Default,,0,0,0,,Tidak, tunggu. Dia mungkin Eldian.
+Dialogue: 0,0:11:32.08,0:11:37.34,Default,,0,0,0,,Sepertinya ada yang salah dengannya. Dia menyeret kakinya.
+Dialogue: 0,0:11:39.09,0:11:43.30,Default,,0,0,0,,Bagaimana jika dia orang tua? Tembak dia sebelum dia berubah menjadi Titan.
+Dialogue: 0,0:11:43.30,0:11:47.26,Default,,0,0,0,,Sekrup itu. Jika Anda ingin menembaknya, lakukanlah!
+Dialogue: 0,0:11:48.47,0:11:49.89,Default,,0,0,0,,Kotoran.
+Dialogue: 0,0:11:55.02,0:11:56.36,Default,,0,0,0,,Apa -?
+Dialogue: 0,0:12:07.91,0:12:09.12,Default,,0,0,0,,Tunggu...
+Dialogue: 0,0:12:11.71,0:12:13.00,Default,,0,0,0,,Menunggu untuk itu!
+Dialogue: 0,0:12:16.67,0:12:18.00,Default,,0,0,0,,Tunggu!
+Dialogue: 0,0:12:18.00,0:12:19.09,Default,,0,0,0,,Dia tidak bergerak.
+Dialogue: 0,0:12:19.09,0:12:21.01,Default,,0,0,0,,Siapa peduli? Tembak dia!
+Dialogue: 0,0:12:25.09,0:12:29.35,Default,,0,0,0,,Sekarang kesempatanku!
+Dialogue: 0,0:12:38.61,0:12:40.53,Default,,0,0,0,,Dia benar-benar berhasil!
+Dialogue: 0,0:12:40.53,0:12:42.70,Default,,0,0,0,,Galliard! Percepat!
+Dialogue: 0,0:12:46.24,0:12:50.33,Default,,0,0,0,,Sial! Dasar pengecut Marleyan!
+Dialogue: 0,0:12:50.33,0:12:54.16,Default,,0,0,0,,Inilah mengapa kalian bajingan ...
+Dialogue: 0,0:12:54.16,0:12:57.21,Default,,0,0,0,,... semua berhak mati!
+Dialogue: 0,0:12:59.59,0:13:00.84,Default,,0,0,0,,Gabi!
+Dialogue: 0,0:13:00.84,0:13:02.46,Default,,0,0,0,,Falco, jangan!
+Dialogue: 0,0:13:20.86,0:13:23.19,Default,,0,0,0,,Galliard! Hah?
+Dialogue: 0,0:13:37.88,0:13:40.54,Default,,0,0,0,,Kereta lapis baja telah dinonaktifkan.
+Dialogue: 0,0:13:40.54,0:13:43.59,Default,,0,0,0,,Kami sekarang akan memulai serangan udara.
+Dialogue: 0,0:13:43.59,0:13:45.97,Default,,0,0,0,,Ingatlah untuk tetap berpegang pada rencana.
+Dialogue: 0,0:13:45.97,0:13:50.51,Default,,0,0,0,,Zeke akan menjadi tombak kita ... dan Reiner akan menjadi tameng kita.
+Dialogue: 0,0:13:51.01,0:13:56.02,Default,,0,0,0,,"Informasi yang Tersedia untuk Pengungkapan Publik" "Marley: Kediktatoran Militer" "Setelah Perang Titan Besar di mana pahlawan Helos memimpin mereka menuju kemenangan, Marley dihidupkan kembali sebagai kekuatan militer yang tangguh. Memanfaatkan tujuh dari Sembilan Titans sebagai 'Prajurit,' Marley menaklukkan negara musuh dengan kekuatan mereka yang luar biasa. Selain Prajurit mereka, pasukan Marley, angkatan laut, dan udara membantu menginjak-injak musuh mereka. "
+Dialogue: 0,0:14:55.62,0:14:57.12,Default,,0,0,0,,Sial, sakit!
+Dialogue: 0,0:14:57.12,0:14:59.50,Default,,0,0,0,,Kenapa seorang Marleyan sepertiku ditembak ?!
+Dialogue: 0,0:14:59.50,0:15:01.96,Default,,0,0,0,,--Apa yang kamu lakukan, Falco? --Kau Orang Tua seharusnya menyerap peluru!
+Dialogue: 0,0:15:01.96,0:15:03.84,Default,,0,0,0,,--Tidak bisakah kamu memberi tahu? --Kau Orang Tua seharusnya menyerap peluru!
+Dialogue: 0,0:15:03.84,0:15:06.96,Default,,0,0,0,,Dia tidak siap untuk melawan kita lagi.
+Dialogue: 0,0:15:06.96,0:15:08.80,Default,,0,0,0,,Udo, berikan aku tourniquet.
+Dialogue: 0,0:15:08.80,0:15:10.13,Default,,0,0,0,,--Sini. --Anak-anak bodoh.
+Dialogue: 0,0:15:10.13,0:15:13.10,Default,,0,0,0,,Persetan dengan musuh.
+Dialogue: 0,0:15:13.10,0:15:16.31,Default,,0,0,0,,Apakah itu yang menjadi nilai jual Anda?
+Dialogue: 0,0:15:16.31,0:15:22.35,Default,,0,0,0,,Anda benar-benar berpikir bahwa mematuhi hukum perang akan memberi Anda tempat Armored Titan?
+Dialogue: 0,0:15:22.35,0:15:24.98,Default,,0,0,0,,Itu tidak akan membantu, kamu tahu.
+Dialogue: 0,0:15:24.98,0:15:26.57,Default,,0,0,0,,Seperti saya peduli?
+Dialogue: 0,0:15:27.90,0:15:29.57,Default,,0,0,0,,Aneh.
+Dialogue: 0,0:15:31.32,0:15:33.03,Default,,0,0,0,,Dia mengatakan sesuatu.
+Dialogue: 0,0:15:36.87,0:15:41.37,Default,,0,0,0,,Tafsirkan, Udo. Katakanlah aku menghentikan pendarahannya dan dia akan baik-baik saja--
+Dialogue: 0,0:15:41.37,0:15:43.29,Default,,0,0,0,,"Jangan sentuh aku."
+Dialogue: 0,0:15:43.29,0:15:45.59,Default,,0,0,0,,"Aku akan ternoda."
+Dialogue: 0,0:15:45.59,0:15:48.46,Default,,0,0,0,,"Dasar iblis," katanya.
+Dialogue: 0,0:15:58.85,0:16:00.43,Default,,0,0,0,,Mundur!
+Dialogue: 0,0:16:00.43,0:16:01.89,Default,,0,0,0,,Percepat!
+Dialogue: 0,0:16:01.89,0:16:03.19,Default,,0,0,0,,Menjauh dari benteng!
+Dialogue: 0,0:16:03.19,0:16:05.11,Default,,0,0,0,,Jangan sampai terjebak di dalamnya!
+Dialogue: 0,0:16:09.90,0:16:11.70,Default,,0,0,0,,Sudah dimulai.
+Dialogue: 0,0:16:42.18,0:16:43.64,Default,,0,0,0,,Ahem!
+Dialogue: 0,0:17:35.07,0:17:37.61,Default,,0,0,0,,Tidak! Berhenti!
+Dialogue: 0,0:17:44.54,0:17:48.83,Default,,0,0,0,,Benar-benar iblis ...
+Dialogue: 0,0:17:48.83,0:17:54.42,Default,,0,0,0,,Nenek moyang Marley kita dimakan begitu saja.
+Dialogue: 0,0:17:54.42,0:17:56.72,Default,,0,0,0,,Oleh Anda para Tetua.
+Dialogue: 0,0:17:56.72,0:17:58.26,Default,,0,0,0,,Api!
+Dialogue: 0,0:18:08.15,0:18:10.73,Default,,0,0,0,,Pengeboman kinetik berjalan dengan baik,
+Dialogue: 0,0:18:10.73,0:18:15.82,Default,,0,0,0,,tetapi karena ketinggian, kira-kira setengahnya meninggal karena benturan.
+Dialogue: 0,0:18:16.95,0:18:21.08,Default,,0,0,0,,Banyak meriam anti-Titan masih beroperasi.
+Dialogue: 0,0:18:21.08,0:18:27.33,Default,,0,0,0,,Dua puluh delapan ... Dua puluh sembilan ... Dan sekarang saya tahu lokasi mereka. Tetapi tetap saja...
+Dialogue: 0,0:18:28.62,0:18:30.63,Default,,0,0,0,,Lebih banyak dinding?
+Dialogue: 0,0:18:32.38,0:18:36.01,Default,,0,0,0,,Aku muak dan lelah ... tembok.
+Dialogue: 0,0:18:54.48,0:18:57.11,Default,,0,0,0,,--Itu Lapis Baja! --Bunuh itu!
+Dialogue: 0,0:19:04.91,0:19:06.54,Default,,0,0,0,,Api!
+Dialogue: 0,0:19:09.62,0:19:13.96,Default,,0,0,0,,Cangkang anti-Titan yang bahkan menembus armorku?
+Dialogue: 0,0:19:17.05,0:19:19.76,Default,,0,0,0,,Apa - ?! Apa yang menimpaku ?!
+Dialogue: 0,0:19:20.88,0:19:23.97,Default,,0,0,0,,Kereta lapis baja? Ada lagi?
+Dialogue: 0,0:19:43.74,0:19:44.99,Default,,0,0,0,,Kotoran!
+Dialogue: 0,0:19:44.99,0:19:46.45,Default,,0,0,0,,Api--
+Dialogue: 0,0:19:51.08,0:19:52.75,Default,,0,0,0,,Galliard!
+Dialogue: 0,0:19:52.75,0:19:55.00,Default,,0,0,0,,Dasar pelacur!
+Dialogue: 0,0:20:27.24,0:20:28.49,Default,,0,0,0,,Bagus!
+Dialogue: 0,0:20:36.09,0:20:39.00,Default,,0,0,0,,Mereka berhasil mengendalikannya?
+Dialogue: 0,0:20:39.00,0:20:43.30,Default,,0,0,0,,Kekalahan kami menyebabkan perang ini, Reiner.
+Dialogue: 0,0:20:53.94,0:20:57.06,Default,,0,0,0,,Bukankah perang itu hal yang buruk?
+Dialogue: 0,0:21:12.20,0:21:16.92,Default,,0,0,0,,Akhirnya ... Dengan ini, perang akan berakhir.
+Dialogue: 0,0:21:24.88,0:21:26.01,Default,,0,0,0,,Hah?
+Dialogue: 0,0:21:26.01,0:21:27.30,Default,,0,0,0,,Apa?!
+Dialogue: 0,0:22:01.13,0:22:03.88,Default,,0,0,0,,Dengan armada mereka hancur,
+Dialogue: 0,0:22:03.88,0:22:08.14,Default,,0,0,0,,Pasukan Sekutu Timur Tengah menandatangani perjanjian damai dengan Marley.
+Dialogue: 0,0:22:08.14,0:22:13.31,Default,,0,0,0,,Perang selama empat tahun berakhir dengan kemenangan Marleyan.
+Dialogue: 0,0:22:13.31,0:22:20.65,Default,,0,0,0,,Tetapi ketika dunia mengetahui bahwa era dominasi Titan akan segera berakhir,
+Dialogue: 0,0:22:20.65,0:22:26.86,Default,,0,0,0,,Marley ditekan untuk mendapatkan Founding Titan secepat mungkin.
+Dialogue: 0,0:22:28.03,0:22:30.16,Default,,0,0,0,,Oh tidak...
+Dialogue: 0,0:22:33.87,0:22:39.58,Default,,0,0,0,,Berkat keberanian luar biasa dari pasukan Marley, Fort Slava akhirnya jatuh!
+Dialogue: 0,0:22:39.58,0:22:41.17,Default,,0,0,0,,Luar biasa!
+Dialogue: 0,0:22:41.17,0:22:44.00,Default,,0,0,0,,Itu tentara Marley kami untukmu!
+Dialogue: 0,0:23:40.48,0:23:46.03,Default,,0,0,0,,"Titan tidak mutlak." Marley diperlihatkan kenyataan yang menyakitkan ini.
+Dialogue: 0,0:23:46.03,0:23:48.82,Default,,0,0,0,,Kemenangan memberikan kegembiraan singkat,
+Dialogue: 0,0:23:48.82,0:23:53.41,Default,,0,0,0,,para prajurit kembali ke kampung halaman mereka di Liberio.
+Dialogue: 0,0:23:53.01,0:23:56.54,Default,,0,0,0,,"Kereta Tengah Malam"
+Dialogue: 0,0:23:53.41,0:23:56.54,Default,,0,0,0,,Episode berikutnya: "Kereta Tengah Malam".
+Dialogue: 0,0:23:56.54,0:23:58.53,Default,,0,0,0,,
+Dialogue: 0,0:23:58.53,0:24:00.55,Default,,0,0,0,,
+Dialogue: 0,0:24:00.55,0:24:02.54,Default,,0,0,0,,
